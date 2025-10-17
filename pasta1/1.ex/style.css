@@ -1,0 +1,9 @@
+body {
+  .body_h1 {
+    background-color: red;
+  }
+
+  #body_h2 {
+    background-color: yellow;
+  }
+}
