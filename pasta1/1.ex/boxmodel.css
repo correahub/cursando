@@ -15,4 +15,14 @@
     font-size: 64px;
     box-sizing: border-box;
   }
+  .body-hero_h1:hover {
+    background-color: lime;
+  }
+
+  a:visited {
+    color: red;
+  }
+  .test:link{
+    color: rgb(131, 87, 94);
+  }
 }
