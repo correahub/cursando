@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.header-hero {
+  background: url("imagens/bg-3.jpg") center right / 100% no-repeat fixed;
+  padding-top: 1px;
+
+  .header-hero_nav_ul {
+    list-style: none;
+    text-align: right;
+    margin-right: 30px;
+    .header-hero_nav_ul_li {
+      display: inline-block;
+      margin-top: 20px;
+      .header-hero_nav_ul_li_a {
+        background-color: rgba(0, 0, 0, 0.397);
+        color: white;
+        padding: 20px;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-right: 10px;
+        border: 2px solid white;
+      }
+      .header-hero_nav_ul_li_a:hover {
+        background-color: white;
+        color: black;
+      }
+    }
+  }
+}
