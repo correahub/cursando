@@ -53,3 +53,27 @@ body {
     }
   }
 }
+
+.main-hero {
+  width: 80%;
+  margin: 20px auto;
+  .main-hero_section_article {
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    .main-hero_section_article_h2 {
+      background-color: rgba(128, 128, 128, 0.377);
+      padding: 10px;
+      margin-top: 0;
+    }
+    .main-hero_section_article_p {
+      line-height: 1.5;
+    }
+    .main-hero_section_article_a {
+      background-color: rgba(128, 128, 128, 0.377);
+      padding: 10px;
+      border-radius: 5px;
+    }
+  }
+}
