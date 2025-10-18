@@ -1,0 +1,16 @@
+body {
+  width: 80%;
+  margin: auto;
+  line-height: 1.8em;
+  background: url("/images/bg.jpg") bottom right / cover no-repeat fixed;
+/**  background-image: url("caminho da imagem");
+  background-position: left, top, right, center;
+  background-size: alturay ou largurax - ou contain cobre até começar distorcer, ou cover cobre tudo;*/
+}
+
+.b1 {
+  float: left;
+}
+.b2 {
+  float: right;
+}
