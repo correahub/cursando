@@ -77,3 +77,11 @@ body {
     }
   }
 }
+.footer-hero {
+  text-align: center;
+  padding: 25px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(128, 128, 128, 0.534);
+  font-size: 20px;
+  font-weight: bolder;
+}
