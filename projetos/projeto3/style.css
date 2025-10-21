@@ -12,24 +12,29 @@ body {
   align-items: center;
   flex-direction: column;
   min-height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
 
   .main-hero {
     width: 80%;
+    max-width: 960px;
     cursor: pointer;
 
     .main-hero_ul {
       list-style: none;
       display: flex;
+      justify-content: center;
+
       flex-wrap: wrap;
       gap: 20px;
 
       .main-hero_ul_li {
         background-color: white;
+        flex-basis: 250px;
 
         .main-hero_ul_li_section {
           &.main-hero_ul_li_section {
-            width: 300px;
-            background: url("imagens/thumb02.jpg") top center / 300px 150px
+            background: url("imagens/thumb02.jpg") top center / 100%
               no-repeat;
           }
 
@@ -38,12 +43,12 @@ body {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            padding-top: 80px;
           }
           .main-hero_ul_li_section_img {
             border-radius: 50%;
             height: 80px;
             padding: 10px;
-            margin-top: 80px;
           }
 
           .main-hero_ul_li_section_div-name {
