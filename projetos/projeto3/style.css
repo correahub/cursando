@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+html{
+  height: 100%;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #00feff;
@@ -7,6 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  min-height: 100%;
 
   .main-hero {
     width: 500px;
@@ -48,11 +53,15 @@ body {
             display: flex;
             gap: 10px;
             cursor: pointer;
+            opacity: 0;
           }
         }
 
         .main-hero_ul_li_section:hover {
           background-color: rgba(0, 0, 0, 0.123);
+          .main-hero_ul_li_section_div-del {
+            opacity: 1;
+          }
         }
       }
     }
