@@ -6,11 +6,10 @@
 
 html {
   font-family: arial; /* Define a fonte padrão da página */
-  height: 100%; /* Faz o elemento html ocupar toda a altura da janela */
+  
 
   body {
-    height: 100%; /* Faz o body ocupar toda a altura da janela também */
-    background: url("imagens/bg-2.jpg") center bottom / cover no-repeat fixed; 
+    background: url("imagens/bg-2.jpg") center bottom / cover no-repeat fixed;
     /* Define imagem de fundo centralizada, no rodapé, cobrindo toda a tela, sem repetição e fixa */
 
     display: flex; /* Ativa o modelo Flexbox */
@@ -56,12 +55,11 @@ html {
         padding: 0; /* Remove espaçamento padrão da lista */
 
         .main-hero_list_item {
-          background-image: url("imagens/card_01.png"); /* Imagem de fundo padrão do card */
           background-position: center right; /* Alinha imagem à direita e centralizada verticalmente */
           background-repeat: no-repeat; /* Evita repetição da imagem */
           background-size: cover; /* Faz a imagem cobrir todo o card */
           background-attachment: scroll; /* A imagem rola junto com a página */
-          height: 16.9rem; /* Altura = 169px */
+          height: 20rem; /* Altura = 169px */
           width: 30rem; /* Largura = 300px */
           display: flex; /* Ativa o Flexbox no card */
           flex-direction: column; /* Alinha o conteúdo em coluna */
