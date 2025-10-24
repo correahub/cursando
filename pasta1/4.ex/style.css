@@ -1,0 +1,15 @@
+.pai {
+  width: 800px;
+  height: 500px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  
+  .filhos {
+    background-color: black;
+    color: white;
+  }
+}
