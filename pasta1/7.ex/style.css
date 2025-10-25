@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: sim;
+  src: url(/6.ex/souce/SourceSansPro-Black.woff2) format("woff2"),
+    url(/6.ex/souce/SourceSansPro-Black.otf) format("opentype"),
+    url(/6.ex/souce/SourceSansPro-BlackIt.otf) format("opentype"),
+    url(/6.ex/souce/SourceSansPro-Bold.otf) format("opentype"),
+    url(/6.ex/nadia/nadia-serif.ttf) format("truetype"),
+    url(/6.ex/nadia/nadia-serif.woff) format("woff"),
+    url(/6.ex/nadia/nadia-serif.woff2) format("woff2"),
+    url(/6.ex/nadia/nadia-serif.eot) format("svg");
+}
