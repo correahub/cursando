@@ -18,20 +18,20 @@
 
 .header-hero {
   display: flex;
-  
 
   .header-hero_section {
     width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
-    height: 500px;
+    height: 60.65rem;
     background: url("images/topo.jpg") center / cover no-repeat;
 
     .header-hero_section_div {
       width: 100%;
       display: flex;
       justify-content: space-around;
+      align-items: center;
       background-color: var(--background-header-color);
     }
   }
@@ -43,13 +43,20 @@
     display: flex;
     gap: 1.6rem;
     list-style: none;
+    padding: 1.4rem;
+
     .header-hero_section_menu_list_item_a {
       color: var(--menu-color-text);
       text-decoration: none;
       text-transform: uppercase;
       letter-spacing: 0.3rem;
       font-size: 1.6rem;
-      padding: 1.6rem;
+      padding: 1.8rem;
+      border-radius: 0.5rem;
+      &:hover {
+        color: #92a1ac;
+        text-decoration: underline;
+      }
     }
   }
 }
