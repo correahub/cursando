@@ -18,20 +18,21 @@
 
 .header-hero {
   display: flex;
-  justify-content: center;
+  
 
   .header-hero_section {
     width: 100%;
-    background-color: var(--background-header-color);
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
+    height: 500px;
+    background: url("images/topo.jpg") center / cover no-repeat;
 
     .header-hero_section_div {
-      width: 80%;
+      width: 100%;
       display: flex;
       justify-content: space-around;
-      
+      background-color: var(--background-header-color);
     }
   }
   .header-hero_section_span {
