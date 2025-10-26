@@ -25,7 +25,7 @@
     justify-content: space-around;
     align-items: flex-start;
     height: 60.65rem;
-    background: url("images/topo.jpg") center / cover no-repeat;
+    background: url("images/topo.jpg")  bottom / cover no-repeat;
 
     .header-hero_section_div {
       width: 80%;
