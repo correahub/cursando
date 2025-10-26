@@ -4,8 +4,9 @@
 
 :root {
   font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 62.5%;
   --background-header-color: #162028;
-  --menu-color-text: #425564;
+  --menu-color-text: #516a7c;
 
   --text-color: #555;
 
@@ -13,4 +14,41 @@
 
   --background-color-footer: #0b171f;
   --color-footer: #6f8597;
+}
+
+.header-hero {
+  display: flex;
+  justify-content: center;
+
+  .header-hero_section {
+    width: 100%;
+    background-color: var(--background-header-color);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .header-hero_section_div {
+      width: 80%;
+      display: flex;
+      justify-content: space-around;
+      
+    }
+  }
+  .header-hero_section_span {
+    color: white;
+    font-size: 3.2rem;
+  }
+  .header-hero_section_menu_list {
+    display: flex;
+    gap: 1.6rem;
+    list-style: none;
+    .header-hero_section_menu_list_item_a {
+      color: var(--menu-color-text);
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 0.3rem;
+      font-size: 1.6rem;
+      padding: 1.6rem;
+    }
+  }
 }
