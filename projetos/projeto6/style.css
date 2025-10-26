@@ -28,11 +28,11 @@
     background: url("images/topo.jpg") center / cover no-repeat;
 
     .header-hero_section_div {
-      width: 100%;
+      width: 80%;
       display: flex;
-      justify-content: space-around;
+      justify-content: space-between;
       align-items: center;
-      background-color: var(--background-header-color);
+      
     }
   }
   .header-hero_section_span {
