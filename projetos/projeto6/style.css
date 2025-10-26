@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  --background-header-color: #162028;
+  --menu-color-text: #425564;
+
+  --text-color: #555;
+
+  --background-color: #003d52;
+
+  --background-color-footer: #0b171f;
+  --color-footer: #6f8597;
+}
