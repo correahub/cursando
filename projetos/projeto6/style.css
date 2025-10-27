@@ -16,6 +16,11 @@
   --color-footer: #6f8597;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 .header-hero {
   display: flex;
 
@@ -122,5 +127,16 @@
     font-size: 1.6rem;
     line-height: 2.6rem;
     text-align: left;
+  }
+}
+.footer-hero {
+  background-color: var(--background-color-footer);
+
+  .footer-hero_p {
+    color: var(--color-footer);
+    padding: 2rem;
+    margin-top: 0;
+    font-size: 1.6rem;
+    text-align: center;
   }
 }
