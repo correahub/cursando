@@ -25,19 +25,18 @@
     justify-content: space-around;
     align-items: flex-start;
     height: 60.65rem;
-    background: url("images/topo.jpg")  bottom / cover no-repeat;
+    background: url("images/topo.jpg") bottom / cover no-repeat;
 
     .header-hero_section_div {
       width: 80%;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      
     }
   }
   .header-hero_section_span {
-    color: white;
-    font-size: 3.2rem;
+    color: rgba(255, 255, 255, 0.781);
+    font-size: 3.5rem;
   }
   .header-hero_section_menu_list {
     display: flex;
@@ -56,6 +55,54 @@
       &:hover {
         color: #92a1ac;
         text-decoration: underline;
+      }
+    }
+  }
+}
+.main-hero_section1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .main-hero_section1_h1 {
+    font-size: 3.2rem;
+    font-weight: 400;
+    margin-top: 8rem;
+    color: #555;
+  }
+
+  .main-hero_section1_p {
+    width: 50%;
+    font-size: 1.6rem;
+    color: #555;
+    line-height: 3rem;
+    text-align: center;
+  }
+
+  .main-hero_section1_article {
+    .main-hero_section1_article_list {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      gap: 2rem;
+      .main-hero_section1_article_list_item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .main-hero_section1_article_list_item_h2 {
+          margin-bottom: 0;
+          color: #555;
+          font-weight: 400;
+          font-size: 2.2rem;
+        }
+        .main-hero_section1_article_list_item_p {
+          font-size: 1.6rem;
+          color: #555;
+        }
       }
     }
   }
