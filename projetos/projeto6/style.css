@@ -59,6 +59,7 @@
     }
   }
 }
+
 .main-hero_section1 {
   display: flex;
   justify-content: center;
@@ -105,5 +106,21 @@
         }
       }
     }
+  }
+}
+.main-hero_section2 {
+  background: url("images/bg_detalhe.png") bottom right / cover no-repeat;
+  color: #d1d0d0;
+  padding: 8rem;
+  .main-hero_section2_h2 {
+    font-size: 4.4rem;
+    font-weight: 400;
+    width: 80%;
+  }
+  .main-hero_section2_p {
+    width: 50%;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    text-align: left;
   }
 }
