@@ -1,24 +1,5 @@
 @charset "UTF-8";
 
-body {
-  div {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    height: 300px;
-    width: 50%;
-    padding-left: 30px;
-    box-sizing: border-box;
-    font-size: 20px;
-    background: url("/imagens/HeroImage.png") right / contain no-repeat,
-      linear-gradient(
-        to bottom,
-        #fefefc,
-        #ffffd1,
-        #ffffa1,
-        #ffff81,
-        #fdfe5c,
-        #e6e647d7
-      );
-  }
+:root {
+  -linear: #fefefc, #ffffd1, #ffffa1, #ffff81, #fdfe5c, #e6e647d7;
 }
