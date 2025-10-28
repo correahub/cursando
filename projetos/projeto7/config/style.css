@@ -1,5 +1,45 @@
 @charset "UTF-8";
 
 :root {
-  -linear: #fefefc, #ffffd1, #ffffa1, #ffff81, #fdfe5c, #e6e647d7;
+  --linear: #fefefc, #ffffd1, #ffffa1, #ffff81, #fdfe5c, #e6e647d7;
+  font-size: 62.5%;
+}
+
+.header-hero_section1 {
+  background-color: #2a2a2a;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+  .header-hero_section1_div {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    .header-hero_section1_nav {
+      .header-hero_section1_nav_list {
+        list-style: none;
+        display: flex;
+        gap: 2rem;
+
+        .header-hero_section1_nav_list_item {
+          padding: 1rem 0px 1rem 0px;
+
+          .header-hero_section1_nav_list_item_a {
+            color: #e5c64c;
+            border: 1px solid #e5c64c;
+            background-color: #2a2a2a;
+            font-size: 1.6rem;
+            padding: 1rem;
+            text-transform: uppercase;
+            text-decoration: none;
+            letter-spacing: 0.2rem;
+          }
+        }
+      }
+    }
+  }
 }
