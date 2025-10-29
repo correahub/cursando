@@ -180,6 +180,7 @@
     .main-hero_section4_div {
       width: 80%;
       text-align: center;
+
       .main-hero_section4_div_h2 {
         font-size: 3.2rem;
       }
@@ -194,11 +195,11 @@
   }
 }
 
-.footer-hero{
+.footer-hero {
   background-color: #2a2a2a;
   color: #fefefc;
   padding: 1rem;
   font-size: 1.6rem;
   text-align: center;
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
