@@ -6,6 +6,12 @@
   font-family: arial;
 }
 
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
 .header-hero {
   background-image: linear-gradient(var(--linear));
   display: flex;
@@ -26,6 +32,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 35rem;
 
     .header-hero_div_h1 {
       font-size: 4.4rem;
@@ -106,15 +113,17 @@
       display: flex;
       gap: 1rem;
       .main-hero_section2_list_item {
+        flex: 1;
         .main-hero_section2_list_item_article {
           box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.192),
             -1px -2px rgba(0, 0, 0, 0.192);
           margin-top: 0;
           border-radius: 10px;
+          overflow: auto;
 
           .img {
             width: 100%;
-            height: 21rem;
+            flex: 1;
           }
           .main-hero_section2_list_item_article_h3 {
             font-size: 2rem;
