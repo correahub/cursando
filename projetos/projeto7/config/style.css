@@ -160,6 +160,7 @@
       .main-hero_section3_aside_div {
         color: white;
         margin-left: 5rem;
+        padding: 1rem;
         .main-hero_section3_aside_div_h2 {
           font-size: 3.2rem;
         }
@@ -177,16 +178,17 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    width: 100%;
     .main-hero_section4_div {
       width: 80%;
+
       text-align: center;
 
       .main-hero_section4_div_h2 {
         font-size: 3.2rem;
       }
-      img {
-        width: 100%;
-      }
+
       .main-hero_section4_divz {
         text-align: right;
         font-size: 1.6rem;
