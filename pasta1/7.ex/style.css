@@ -6,12 +6,15 @@ th {
   border: 1px solid rgb(255, 255, 255);
   border-collapse: collapse;
   padding: 10px;
-  width: 500px;
-  margin: 150px auto;
   text-align: center;
   font-size: arial;
   color: white;
   background-color: black;
+}
+
+table {
+  width: 80%;
+  margin: 5% auto;
 }
 caption {
   border: 1px solid black;

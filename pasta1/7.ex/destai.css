@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+main {
+  max-width: 500px;
+  margin: 80px auto;
+  text-align: center;
+}
+details {
+  color: yellow;
+  cursor: pointer;
+}
+.hero-div {
+  border: 2px solid lime;
+  width: fit-content;
+  margin: auto;
+  width: 100%;
+}
+a {
+  display: block;
+  color: lime;
+  background-color: rgb(97, 96, 96);
+  padding: 10px;
+  margin: 5px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
