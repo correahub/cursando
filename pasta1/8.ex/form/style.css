@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(0, 0, 0, 0.952);
+}
+
+form {
+  width: 500px;
+  margin: auto;
+  color: white;
+}
