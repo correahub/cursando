@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Emanuel Soares Corrêa" />
+    <meta
+      name="description"
+      content="Um pequeno projeto feito com o intuito de praticar a propriedade popover."
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Popover|Exercício</title>
+  </head>
+  <body>
+    <main>
+      <div class="main-hero_div">
+        <div>
+          <h1>Perfil de Emanuel Soares Corrêa</h1>
+          <p><strong>Nome: </strong>Emanuel Corrêa</p>
+        </div>
+
+        <div>
+          <button class="buttonz" popovertarget="mensagem">Ajuda</button>
+        </div>
+      </div>
+      <div popover="manual" id="mensagem">
+        <p>
+          O Nome completo do usuário. Ele pode ser alterado nas configurações de
+          perfil.
+        </p>
+        <div class="divzin">
+          <button class="buttonz" popovertarget="mensagem">Fechar</button>
+        </div>
+      </div>
+
+      <div>
+        <h2>Informações de Contato</h2>
+        <address><strong>Email:</strong> Emanuelsoares@gmail.com</address>
+      </div>
+    </main>
+  </body>
+</html>
