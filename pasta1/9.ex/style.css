@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+:root {
+  --main-background: #657172;
+  --form-background: #ebf0f1;
+}
+
+html {
+  height: 100%;
+  font-size: 62.5%;
+}
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--main-background);
+}
+
+.header-hero {
+  text-align: center;
+  font-size: 2.2rem;
+}
+.header-hero_h1 {
+  margin: 0 0 1rem 0 ;
+}
+
+.main-hero {
+  width: 30%;
+}
+
+.main-hero_form {
+  background-color: var(--form-background);
+  font-size: 1.6rem;
+  border-radius: 1rem;
+}
+
+.main-hero_form_fieldset {
+  border: 0;
+}
+.main-hero_form_fieldset_legend {
+  font-size: 1.8rem;
+  text-align: center;
+}
+.main-hero_form_fieldset_section_div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+.main-hero_form_fieldset_section_div_input {
+  padding: 1rem;
+}
+.main-hero_form_fieldset_buton {
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}

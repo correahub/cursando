@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Emanuel Soares Corrêa" />
+    <meta name="description" content="Uma página simples com um formulário." />
+    <link rel="stylesheet" href="normalize.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Usuário e Senha</title>
+  </head>
+  <body>
+    <header class="header-hero">
+      <h1 class="header-hero_h1">Login</h1>
+    </header>
+    <main class="main-hero">
+      <form
+        class="main-hero_form"
+        method="get"
+        enctype="application/x-www-form-urlencoded"
+      >
+        <fieldset class="main-hero_form_fieldset">
+          <legend class="main-hero_form_fieldset_legend">
+            Entre com seus dados de acesso.
+          </legend>
+          <section class="main-hero_form_fieldset_section">
+            <div class="main-hero_form_fieldset_section_div">
+              <label
+                class="main-hero_form_fieldset_section_div_label"
+                for="user"
+              >
+                Usuário
+              </label>
+              <input
+                class="main-hero_form_fieldset_section_div_input"
+                type="text"
+                id="user"
+                name="user"
+                required
+                maxlength="10"
+                minlength="5"
+                placeholder="Your Name"
+              />
+            </div>
+            <div class="main-hero_form_fieldset_section_div">
+              <label
+                for="pass"
+                class="main-hero_form_fieldset_section_div_label"
+              >
+                Password</label
+              >
+              <input
+                type="password"
+                class="main-hero_form_fieldset_section_div_input"
+                required
+                id="pass"
+                name="password"
+                minlength="5"
+                placeholder="Your Password"
+              />
+            </div>
+          </section>
+          <input
+            class="main-hero_form_fieldset_buton"
+            type="submit"
+            value="Entrar"
+          />
+        </fieldset>
+      </form>
+    </main>
+  </body>
+</html>
