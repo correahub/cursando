@@ -24,13 +24,25 @@
       <br />
       <br />
       <label for="poderes"> Super Poderes: </label>
-      <input list="poder" name="poderes" id="poderes" />
+      <input list="poder" name="poderes" id="poderes" required />
       <datalist id="poder">
         <option value="Voar">Voar</option>
         <option value="Super Velocidade">Super Velocidade</option>
         <option value="Ficar invisivel">Ficar invisivel</option>
       </datalist>
       <br />
+      <br />
+      <label for="menssagem">Recado para Deus</label><br />
+      <textarea
+        style="resize: none"
+        readonly
+        required
+        name="menssagem"
+        id="menssagem"
+        placeholder="Olá,jesus. Por favor, me ajuda! Eu quero ser salvo...."
+        rows="10"
+        cols="50"
+      ></textarea>
       <br />
       <button type="submit">Enviar</button>
     </form>
