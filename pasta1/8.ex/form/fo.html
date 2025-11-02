@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="" method="get" enctype="application/x-www-form-urlencoded" autocomplete="on">
+      <fieldset>
+        <legend>Data de Aniversário</legend>
+        <label for="nascimento"> Data de Nascimento: </label>
+        <input
+          type="date"
+          id="nascimento"
+          name="nascimento"
+          min="1950-01-01"
+          max="2026-01-01"
+          required
+        />
+        <br />
+        <label for="cor"> Escolha sua cor Favorita: </label>
+        <input type="color" id="cor" name="cor" value="#ff0000" required />
+        <br />
+        <br />
+        <label for="foto">Foto:</label><br />
+        <input type="file" name="foto" id="foto" multiple /> <br />
+        <br />
+        <label for="humor"> Quanto você está feliz atualmente? </label> <br />
+        <input
+          type="range"
+          min="1"
+          max="5"
+          step="1"
+          value="0"
+          required
+          id="humor"
+          name="humor"
+        />
+        <br />
+        <input type="hidden" value="Novato" name="Nível" />
+        <!--ESSE INPUT É OCULTO, MAS AINDA É COMPUTADO.-->
+
+        <label for="pesquisa">Buscar:</label>
+        <input
+          type="search"
+          placeholder="Digite oque você procura."
+          name="Buscar"
+          id="pesquisa"
+          maxlength="10"
+          autocomplete="off"
+        />
+        <button type="submit">Enviar</button>
+        <button type="reset">Resetar</button>
+      </fieldset>
+    </form>
+  </body>
+</html>
