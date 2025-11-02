@@ -1,9 +1,8 @@
-body{
-    background-color: rgba(0, 0, 0, 0.952);
-}
-
-form {
+body {
+  background-color: rgba(0, 0, 0, 0.952);
   width: 500px;
   margin: auto;
   color: white;
 }
+
+
