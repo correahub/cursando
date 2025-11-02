@@ -7,18 +7,32 @@
     <title>Document</title>
   </head>
   <body>
-    <label for="frutas">ESCOLHA UMA FRUTA:</label> <br />
-    <select name="Frutas" id="frutas">
-      <optgroup label="frutas">
-        <option value="maçã">maçã</option>
-        <option value="morando">morango</option>
-        <option value="uva">uva</option>
-      </optgroup>
-      <optgroup label="salgados">
-        <option value="pizza" selected>pizza</option>
-        <option value="amburguer">Coxinha</option>
-        <option value="salgadinho">Triangulo de Carne</option>
-      </optgroup>
-    </select>
+    <form action="">
+      <label for="frutas">ESCOLHA UMA FRUTA:</label> <br />
+      <select name="Frutas" id="frutas">
+        <optgroup label="frutas">
+          <option value="maçã">maçã</option>
+          <option value="morando">morango</option>
+          <option value="uva">uva</option>
+        </optgroup>
+        <optgroup label="salgados">
+          <option value="pizza" selected>pizza</option>
+          <option value="amburguer">Coxinha</option>
+          <option value="salgadinho">Triangulo de Carne</option>
+        </optgroup>
+      </select>
+      <br />
+      <br />
+      <label for="poderes"> Super Poderes: </label>
+      <input list="poder" name="poderes" id="poderes" />
+      <datalist id="poder">
+        <option value="Voar">Voar</option>
+        <option value="Super Velocidade">Super Velocidade</option>
+        <option value="Ficar invisivel">Ficar invisivel</option>
+      </datalist>
+      <br />
+      <br />
+      <button type="submit">Enviar</button>
+    </form>
   </body>
 </html>
