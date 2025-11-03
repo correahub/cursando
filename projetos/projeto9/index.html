@@ -15,15 +15,18 @@
   <body>
     <main class="main-hero">
       <form
+        autocomplete="on"
         class="main-hero_form"
         action="#"
         method="get"
         enctype="application/x-www-form-urlencoded"
       >
         <fieldset class="main-hero_form_fieldset">
-          <legend class="main-hero_form_fieldset_legend">
-            Formulário de Contato
-          </legend>
+          <div class="caixinha">
+              <legend class="main-hero_form_fieldset_legend">
+                Formulário de Contato
+              </legend>
+          </div>
           <section class="main-hero_form_fieldset_section">
             <label class="main-hero_form_fieldset_section_label" for="nome"
               >Nome
@@ -73,7 +76,8 @@
               id="menssagem"
               minlength="80"
               required
-              placeholder="O motivo dessa menssagem é......"></textarea>
+              placeholder="O motivo dessa menssagem é......"
+            ></textarea>
           </section>
           <div class="main-hero_form_fieldset_div">
             <input

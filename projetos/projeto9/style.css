@@ -30,15 +30,18 @@ body {
 }
 .main-hero_form {
   background-color: var(--backgrund-form);
-  width: 800px;
+  width: 80rem;
 }
 .main-hero_form_fieldset {
   border: 0;
 }
+.caixinha {
+  display: flex;
+  justify-content: center;
+}
 .main-hero_form_fieldset_legend {
   padding: 1rem;
   font-size: 3.2rem;
-  text-align: center;
 }
 
 .main-hero_form_fieldset_section {
@@ -87,7 +90,7 @@ body {
   border-bottom-color: red;
 }
 .main-hero_form_fieldset_section_textarea:focus:valid,
-  .main-hero_form_fieldset_section_textarea:valid {
+.main-hero_form_fieldset_section_textarea:valid {
   background-color: #3837378f;
   border-bottom-color: lime;
 }
