@@ -1,0 +1,110 @@
+@charset "UTF-8";
+:root {
+  --bakcground-body: #171717e3;
+  --backgrund-form: #0d100f;
+  --color-letter: #f3f1ee;
+  --background-botton: #292728;
+  --placeholder-color: #5b5959;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  height: 100%;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--bakcground-body);
+}
+
+.main-hero {
+  color: var(--color-letter);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}
+.main-hero_form {
+  background-color: var(--backgrund-form);
+  width: 800px;
+}
+.main-hero_form_fieldset {
+  border: 0;
+}
+.main-hero_form_fieldset_legend {
+  padding: 1rem;
+  font-size: 3.2rem;
+  text-align: center;
+}
+
+.main-hero_form_fieldset_section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.main-hero_form_fieldset_section_label {
+  font: 500 1.6rem arial;
+}
+.main-hero_form_fieldset_section_input {
+  padding: 1rem;
+  font-size: 1.6rem;
+  background-color: #0a0a0a;
+  color: rgba(255, 255, 255, 0.788);
+  margin-bottom: 2rem;
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid white;
+}
+
+.main-hero_form_fieldset_section_input:focus:invalid {
+  background-color: #3837378f;
+  border-bottom-color: red;
+}
+.main-hero_form_fieldset_section_input:focus:valid,
+.main-hero_form_fieldset_section_input:valid {
+  background-color: #3837378f;
+  border-bottom-color: lime;
+}
+
+.main-hero_form_fieldset_section_textarea {
+  resize: none;
+  margin-top: 1rem;
+  height: 10rem;
+  background-color: #0a0a0a;
+  border: 0;
+  color: white;
+  font-size: 1.6rem;
+  border-bottom: 1px solid white;
+  outline: 0;
+}
+
+.main-hero_form_fieldset_section_textarea:focus:invalid {
+  background-color: #3837378f;
+  border-bottom-color: red;
+}
+.main-hero_form_fieldset_section_textarea:focus:valid,
+  .main-hero_form_fieldset_section_textarea:valid {
+  background-color: #3837378f;
+  border-bottom-color: lime;
+}
+
+.main-hero_form_fieldset_div {
+  text-align: right;
+}
+.main-hero_form_fieldset_div_button {
+  background-color: var(--background-botton);
+  border: 0;
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 0.842);
+  padding: 1.5rem;
+  width: fit-content;
+  margin-top: 2rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
