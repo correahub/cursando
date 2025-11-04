@@ -44,11 +44,28 @@ body {
   margin-top: 0.3rem;
 }
 .main-hero_form_fieldset_section_input {
-  padding: 1rem;
+  padding: 1rem 1rem 1rem 0.5rem;
   font-size: 1.4rem;
   border: 0;
-  border-bottom: 1px solid var(--variation-color);
+  border-bottom: 2px solid var(--variation-color);
   outline: 0;
+  transition: padding 0.2s ease;
+}
+
+.main-hero_form_fieldset_section_input:focus {
+  border-color: var(--cor-principal);
+  padding-left: 1rem;
+}
+
+.main-hero_form_fieldset_section_input:focus:valid,
+.main-hero_form_fieldset_section_input:valid {
+  border-color: rgb(26, 218, 26);
+  background-color: rgba(230, 230, 230, 0.486);
+}
+
+.main-hero_form_fieldset_section_input:focus:invalid {
+  border-color: red;
+  background-color: rgba(230, 230, 230, 0.486);
 }
 
 .main-hero_form_fieldset_div {
