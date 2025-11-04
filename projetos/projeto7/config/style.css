@@ -23,7 +23,7 @@ body {
 .header-hero_div {
   height: 51rem;
   width: 80%;
-  background: url("/imagens/HeroImage-corrigida.png") bottom right / contain
+  background: url("imagens/HeroImage-corrigida.png") bottom right / contain
     no-repeat;
   display: flex;
 
@@ -157,7 +157,7 @@ body {
   }
 
   .main-hero_section3 {
-    background: url("/imagens/nossa-escola.png") left / contain no-repeat,
+    background: url("imagens/nossa-escola.png") left / contain no-repeat,
       #003463;
     display: flex;
     justify-content: flex-end;
