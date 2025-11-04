@@ -23,6 +23,7 @@ body {
 .main-hero_form {
   width: 50rem;
   background-color: white;
+  box-shadow: -7px 0px 0px 1px rgba(0, 0, 0, 0.39);
 }
 .main-hero_form_fieldset {
   border: 0;
@@ -48,4 +49,27 @@ body {
   border: 0;
   border-bottom: 1px solid var(--variation-color);
   outline: 0;
+}
+
+.main-hero_form_fieldset_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.main-hero_form_fieldset_div_button {
+  background-color: var(--cor-principal);
+  padding: 1rem;
+  font-size: 1.6rem;
+  border: 0;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.main-hero_form_fieldset_div_p {
+  font-size: 1.3rem;
+  color: rgba(0, 0, 0, 0.623);
 }
