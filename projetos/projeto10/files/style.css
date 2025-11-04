@@ -4,13 +4,13 @@
   --cor-principal: #3b68b7;
   --variation-color: #3b68b7a6;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 62.5%;
 }
 
 html,
 body {
   height: 100vh;
   margin: 0;
+  font-size: 62.5%;
 }
 
 .main-hero {
@@ -21,9 +21,10 @@ body {
   align-items: center;
 }
 .main-hero_form {
-  width: 50%;
+  
   background-color: white;
   box-shadow: -7px 0px 0px 1px rgba(0, 0, 0, 0.39);
+  padding: 1rem;
 }
 .main-hero_form_fieldset {
   border: 0;
@@ -32,6 +33,7 @@ body {
   padding: 1rem;
   font-size: 3.2rem;
   color: var(--cor-principal);
+  font-weight: 200;
 }
 .main-hero_form_fieldset_section {
   display: flex;
@@ -74,6 +76,7 @@ body {
   align-items: center;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  gap: 5rem;
 }
 
 .main-hero_form_fieldset_div_button {
@@ -86,19 +89,20 @@ body {
   text-transform: uppercase;
   border-radius: 0.5rem;
   cursor: pointer;
+
+
 }
 
 .main-hero_form_fieldset_div_button_login {
   background-color: var(--cor-principal);
   padding: 1rem;
-font-size: 1.6vw;
+  font-size: 1.6vw;
   border: 0;
   color: white;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 0.5rem;
   cursor: pointer;
-  margin-right: 1rem;
 }
 
 .main-hero_form_fieldset_div_button_cadastro {
@@ -115,12 +119,14 @@ font-size: 1.6vw;
 .main-hero_form_fieldset_div_p {
   font-size: 1.4vw;
   color: rgba(0, 0, 0, 0.623);
+ 
 }
 
 .main-hero_form_fieldset_div_p_a {
   font-size: 1.4vw;
+  
 }
 
-.azin{
-    color: var(--cor-principal);
+.azin {
+  color: var(--cor-principal);
 }
