@@ -10,7 +10,7 @@
     />
     <link rel="stylesheet" href="/config/normalize.css" />
     <link rel="stylesheet" href="/config/style.css" />
-    <title>Cadastre-se</title>
+    <title>Login</title>
   </head>
   <body>
     <main class="main-hero">
@@ -21,10 +21,10 @@
         enctype="application/x-www-form-urlencoded"
       >
         <fieldset class="main-hero_form_fieldset">
-          <legend class="main-hero_form_fieldset_legend">Cadastre-se</legend>
+          <legend class="main-hero_form_fieldset_legend">Login</legend>
           <section class="main-hero_form_fieldset_section">
             <label for="user" class="main-hero_form_fieldset_section_label">
-              Usuário
+              Login
             </label>
             <input
               class="main-hero_form_fieldset_section_input"
@@ -32,18 +32,6 @@
               name="username"
               id="user"
               maxlength="10"
-              required
-            />
-
-            <label for="email" class="main-hero_form_fieldset_section_label">
-              Email
-            </label>
-            <input
-              class="main-hero_form_fieldset_section_input"
-              type="email"
-              name="email"
-              maxlength="50"
-              id="email"
               required
             />
 
@@ -60,13 +48,18 @@
             />
           </section>
           <div class="main-hero_form_fieldset_div">
-            <button class="main-hero_form_fieldset_div_button" type="submit">
-              Cadastre-se
-            </button>
-            <p class="main-hero_form_fieldset_div_p">
-              Já possuí cadastro?
-              <a class="main-hero_form_fieldset_div_p_a" href="/login.html">Faça Login</a>
-            </p>
+            <div class="main-hero_form_fieldset_div_div">
+              <button class="main-hero_form_fieldset_div_button_login" type="submit">
+                Login
+              </button>
+              <button class="main-hero_form_fieldset_div_button_cadastro" type="submit">
+                <a href="/index.html" class="azin">Cadastre-se</a>
+              </button>
+            </div>
+
+            <a class="main-hero_form_fieldset_div_p_a" href="#"
+              >Esqueceu a sua Senha?</a
+            >
           </div>
         </fieldset>
       </form>

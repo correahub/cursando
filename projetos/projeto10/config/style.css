@@ -21,7 +21,7 @@ body {
   align-items: center;
 }
 .main-hero_form {
-  width: 50rem;
+  width: 50%;
   background-color: white;
   box-shadow: -7px 0px 0px 1px rgba(0, 0, 0, 0.39);
 }
@@ -54,13 +54,13 @@ body {
 
 .main-hero_form_fieldset_section_input:focus {
   border-color: var(--cor-principal);
+  background-color: rgba(230, 230, 230, 0.486);
   padding-left: 1rem;
 }
 
 .main-hero_form_fieldset_section_input:focus:valid,
 .main-hero_form_fieldset_section_input:valid {
   border-color: rgb(26, 218, 26);
-  background-color: rgba(230, 230, 230, 0.486);
 }
 
 .main-hero_form_fieldset_section_input:focus:invalid {
@@ -75,10 +75,11 @@ body {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+
 .main-hero_form_fieldset_div_button {
   background-color: var(--cor-principal);
   padding: 1rem;
-  font-size: 1.6rem;
+  font-size: 1.6vw;
   border: 0;
   color: white;
   font-weight: 700;
@@ -86,7 +87,40 @@ body {
   border-radius: 0.5rem;
   cursor: pointer;
 }
+
+.main-hero_form_fieldset_div_button_login {
+  background-color: var(--cor-principal);
+  padding: 1rem;
+font-size: 1.6vw;
+  border: 0;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.main-hero_form_fieldset_div_button_cadastro {
+  padding: 1rem;
+  font-size: 1.6vw;
+  border: 0;
+  color: var(--cor-principal);
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
 .main-hero_form_fieldset_div_p {
-  font-size: 1.3rem;
+  font-size: 1.4vw;
   color: rgba(0, 0, 0, 0.623);
+}
+
+.main-hero_form_fieldset_div_p_a {
+  font-size: 1.4vw;
+}
+
+.azin{
+    color: var(--cor-principal);
 }
