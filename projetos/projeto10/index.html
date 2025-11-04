@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Emanuel Soares Corrêa" />
+    <meta
+      name="description"
+      content="Uma Tela de Sing Up e Login para o treinamento."
+    />
+    <link rel="stylesheet" href="/config/normalize.css" />
+    <link rel="stylesheet" href="/config/style.css" />
+    <title>Cadastre-se</title>
+  </head>
+  <body>
+    <main class="main-hero">
+      <form
+        class="main-hero_form"
+        action="#"
+        method="get"
+        enctype="application/x-www-form-urlencoded"
+      >
+        <fieldset class="main-hero_form_fieldset">
+          <legend class="main-hero_form_fieldset_legend">Cadastre-se</legend>
+          <section class="main-hero_form_fieldset_section">
+            <label for="user" class="main-hero_form_fieldset_section_label">
+              Usuário
+            </label>
+            <input
+              class="main-hero_form_fieldset_section_input"
+              type="text"
+              name="username"
+              id="user"
+              maxlength="10"
+              required
+            />
+
+            <label for="email" class="main-hero_form_fieldset_section_label">
+              Email
+            </label>
+            <input
+              class="main-hero_form_fieldset_section_input"
+              type="email"
+              name="email"
+              id="email"
+              required
+            />
+
+            <label for="pass" class="main-hero_form_fieldset_section_label">
+              Senha
+            </label>
+            <input
+              class="main-hero_form_fieldset_section_input"
+              type="password"
+              name="password"
+              id="pass"
+              maxlength="10"
+              required
+            />
+          </section>
+          <div class="main-hero_form_fieldset_div">
+            <button class="main-hero_form_fieldset_div_button" type="submit">
+              Cadastre-se
+            </button>
+            <p>Já possuí cadastro? <a href="#">Faça Login</a></p>
+          </div>
+        </fieldset>
+      </form>
+    </main>
+  </body>
+</html>

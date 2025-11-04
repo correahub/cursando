@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+:root {
+  --cor-principal: #3b68b7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+.main-hero {
+  background-color: var(--cor-principal);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-hero_form {
+  width: 50rem;
+  background-color: white;
+}
+.main-hero_form_fieldset {
+  border: 0;
+}
+.main-hero_form_fieldset_legend {
+  padding: 1rem;
+  font-size: 3.2rem;
+  color: var(--cor-principal);
+}
