@@ -1,0 +1,44 @@
+body > div {
+  border: 2px solid black;
+}
+body > div div {
+  border: 1px solid lime;
+  padding: 10px;
+  width: 200px;
+}
+body > div > div > div > div:has(h5) {
+  background-color: red;
+}
+
+body > div > div > div > div > div {
+  background-color: red;
+}
+
+body > div > h1 {
+  background-color: red;
+  width: fit-content;
+}
+body > div > h1 + p {
+  background-color: aqua;
+  width: fit-content;
+}
+body > div > div > h2 + p {
+  background-color: lime;
+  width: fit-content;
+}
+
+body > div div > h3 + p {
+  background-color: red;
+  width: fit-content;
+}
+
+body > div div > h4 + p {
+  background-color: black;
+  color: wheat;
+  width: fit-content;
+}
+
+/*> filho direto*/
+/* descententes*/
+/*+ irmão direto do filho direto*/
+/* ~ todos os irmãos mais proximos desde que seja depois do irmão do filho direto */
