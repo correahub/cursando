@@ -1,0 +1,10 @@
+input:first-child:checked {
+  outline: 10px solid black;
+}
+
+label:has(input){
+    background-color: red;
+    color: gold;
+    font-size: 10rem;
+}
+
