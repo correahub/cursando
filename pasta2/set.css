@@ -1,0 +1,24 @@
+p > [href] {
+  background-color: red;
+}
+p > [href="@"] {
+  color: lime;
+}
+
+p > [href^="@"] {
+  font-size: 20px;
+}
+
+p > [href$="@"] {
+  padding: 10px;
+}
+
+p > [href*="@"] {
+  font: italic 900 30px arial;
+}
+
+/*[] - Atributo especifico*/
+/*[]="" Atributo de valor especifico*/
+/*[]=^"" Atributo de valor especifico inicial*/
+/*[]=$"" Atributo de valor especifico final*/
+/*[]*="" Atributo de valor especifico local*/
