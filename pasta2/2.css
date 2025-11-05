@@ -1,6 +1,6 @@
-.primeiro:first-child {
-  color: lime;
+li:not(.pinha, li:last-child, li:first-child) {
+  background-color: red;
 }
-.terceiro:last-child {
-  color: lime;
+li {
+  background-color: lime;
 }
