@@ -1,16 +1,40 @@
 .input1 {
-  background-color: black;
+  background-color: rgba(128, 128, 128, 0.801);
   color: white;
   padding: 10px;
   font-size: 18px;
   border: 3px solid blue;
+  outline: 0;
 }
 
-.input1:focus:valid{
-    border: 3px solid lime;
+.input1:focus:valid,
+.input1:valid {
+  border-color: lime;
+}
+.input1:focus:invalid {
+  border-color: red;
 }
 
+.botao {
+  padding: 10px;
+  font-size: 18px;
+  border: 0;
+  outline: 2px solid lime;
+  cursor: pointer;
+}
 
+.botao:hover {
+  background-color: black;
+  color: lime;
+}
+
+.botao:active {
+  color: red;
+  outline-color: red;
+}
 
 /*focus: Quando o usuário clicou e ativou a caixa de texto*/
-/*valid: Quando um input foi validado pelo usuário com base no requeriment do html.*/
+/*valid: Quando um input foi validado pelo usuário com base no requeriment.*/
+/*invalid: Quando um input foi invalidado pelo usuário com base no requeriment*/
+/*hover: Quando o usuário passar o ponteiro do mouse sobre o elemento na tela*/
+/*active: Quando o usuário clica sobre um botão e segura.*/
