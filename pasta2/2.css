@@ -1,0 +1,6 @@
+.primeiro:first-child {
+  color: lime;
+}
+.terceiro:last-child {
+  color: lime;
+}
