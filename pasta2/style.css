@@ -1,0 +1,12 @@
+.input1 {
+  background-color: red;
+  color: yellow;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.input1:focus{
+    background-color: yellow;
+    color: red;
+}
+/*focus: Quando o usuário clicou e ativou a caixa de texto*/
