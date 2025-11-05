@@ -28,12 +28,14 @@ body {
 }
 .main-hero_form_fieldset {
   border: 0;
+  padding: 1rem;
 }
 .main-hero_form_fieldset_legend {
-  padding: 1rem;
+  padding: 2rem;
   font-size: 3.2rem;
   color: var(--cor-principal);
   font-weight: 200;
+  
 }
 .main-hero_form_fieldset_section {
   display: flex;
