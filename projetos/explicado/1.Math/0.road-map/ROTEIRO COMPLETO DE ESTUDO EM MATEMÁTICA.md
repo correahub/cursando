@@ -8,7 +8,7 @@ Panorama de Estudos
 		1.1.3. ==Multiplicação==.
 		1.1.4. ==Potenciação==.
 		1.1.5. ==Divisão==.
-		1.1.6. Frações.
+		1.1.6. ==Frações==.
 		1.1.7. Radiciação.
 	1.4. Números Irracionais.
 	1.5. Números Reais.
