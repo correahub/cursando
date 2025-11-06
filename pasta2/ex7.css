@@ -1,3 +1,52 @@
 li:nth-child(3n + 1) {
   background-color: red;
 }
+
+div {
+  width: 250px;
+  height: 250px;
+  margin: 150px auto;
+  padding: 1rem;
+  border: 2px solid black;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+    /* top: 0;
+    left: 0; */
+    right: 0;
+    bottom: 0;
+    /* inset: calc(0) calc(0) calc(100% - 50px) calc(100% - 50px); */
+  }
+  p {
+    font: italic 100 20px arial;
+
+    &::after {
+      content: "DEPOIS";
+      display: block;
+      border: 2px solid red;
+      width: fit-content;
+      background-color: lime;
+      color: yellow;
+      position: absolute;
+    }
+
+    &::before {
+      content: "ANTES";
+      display: block;
+      border: 2px solid red;
+      width: fit-content;
+      background-color: lime;
+      color: yellow;
+    }
+  }
+}
