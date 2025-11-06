@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9f510681ff59d449",
+    "type": "split",
+    "children": [
+      {
+        "id": "d260353bf59dc513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c7bbf5d77acc20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-html/1.códigos/12.details e popover/1.details/1.detais.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.detais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbdd7c3822c80ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d566e57f3b04bf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86759727e5282a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a5ad9a1fa24f5183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "popo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "98d24937cfbcac3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5954941f16bdd03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e5ec943ad7f274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b477921b48f1d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-css/1.códigos/2.fonts/4.fontes externas/1.fonts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1.fonts"
+            }
+          },
+          {
+            "id": "e2d2cb3866893c83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2-css/1.códigos/2.fonts/4.fontes externas/1.fonts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 1.fonts"
+            }
+          },
+          {
+            "id": "ed6317f5543abc22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b0efd327b054af25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2-css/1.códigos/2.fonts/4.fontes externas/1.fonts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1.fonts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "41c7bbf5d77acc20",
+  "lastOpenFiles": [
+    "1-html/1.códigos/12.details e popover/2.popover/1.popover.md",
+    "1-html/1.códigos/12.details e popover",
+    "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
+    "1-html/1.códigos/12.details e popover/1.details/1.detais.md",
+    "1-html/1.códigos/13.tables/10.scope.md",
+    "1-html/1.códigos/13.tables/9.rowspan.md",
+    "1-html/1.códigos/13.tables/8.colspan.md",
+    "1-html/1.códigos/13.tables/4.tfoot.md",
+    "1-html/1.códigos/13.tables/3.tbody.md",
+    "1-html/1.códigos/13.tables/2.thead.md",
+    "1-html/1.códigos/13.tables/1.caption.md",
+    "1-html/1.códigos/13.tables/11.border e vertical-align.md",
+    "1-html/1.códigos/12.tables/2.Tabela grandes/vertical-align.md",
+    "1-html/1.códigos/12.tables/2.Tabela grandes/border collapse.md",
+    "1-html/1.códigos/12.tables/11.colgroup.md",
+    "1-html/1.códigos/12.table tabelas/1.Tabela simples/Sem título",
+    "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/2.(dl) lista de definição.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem",
+    "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno",
+    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe",
+    "1-html/1.códigos/8-(a) links e hiperlinks/Sem título.md",
+    "1-html/1.códigos/4-Emojis e Simbolos/Emojis e Simbolos.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.Position/4.fixed.md",
+    "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
+    "1-html/1.códigos/0.Meta tag e anatomia/0.Anatomia/0.1 Oque é tag, atributo, valor, conteúdo, elemento..md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno/1.link externo e intenro.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/1.Oque é iframe/1.Oque é iframe.md",
+    "1-html/1.códigos/6-formatação/1.addres(endereço usado no rodapé).md",
+    "2-css/1.códigos/1.backgrounds e colors/1.backgrounds/MULTIPLOS BACKGROUND.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.backgrounds/2.lineargradiante/2.background do azul pro transpaente.md",
+    "2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
+    "Sem título.base",
+    "2-css/1.códigos/8.animations/1.transformes/desktop.ini",
+    "2-css/1.códigos/8.animations/1.transformes"
+  ]
+}

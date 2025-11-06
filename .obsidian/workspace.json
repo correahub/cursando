@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e57f638e2039984a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6000d5573866ce7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5845a94f3895e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repozinho/conteudo/1.Math/1.Classes e ordens/2.ordens decimais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.ordens decimais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8030ba69736a5947",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35d798b2befaa66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d38e31f8d32ec0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1fce568432af4b10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f810f1ea53442d64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76656ac93c08c07c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85955820155e587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d4217de93070d31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "repozinho/conteudo/1.Math/1.Classes e ordens/2.ordens decimais.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 2.ordens decimais"
+            }
+          },
+          {
+            "id": "e60bc7bbc371ec68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "repozinho/conteudo/1.Math/1.Classes e ordens/2.ordens decimais.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 2.ordens decimais"
+            }
+          },
+          {
+            "id": "370d73a72f61ecb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a22b4243fd06253",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "repozinho/conteudo/1.Math/1.Classes e ordens/2.ordens decimais.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2.ordens decimais"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d5845a94f3895e83",
+  "lastOpenFiles": []
+}
