@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44e229cd34bde51d",
+        "id": "e9efaa0ee29e8b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcc0e1ec15bd306",
+            "id": "19eb3597bbe8ba8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.aritimética/7.radiciação/1. O que é radiciação.md",
+                "file": "3.aritimética/6.frações/6.porcenagem de qualquer valor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. O que é radiciação"
+              "title": "6.porcenagem de qualquer valor"
             }
           }
         ]
@@ -166,27 +166,36 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5fcc0e1ec15bd306",
+  "active": "19eb3597bbe8ba8c",
   "lastOpenFiles": [
+    "images/pra.png",
+    "images/vn.png",
+    "images/alv.png",
+    "images/x.png",
+    "3.aritimética/5.divisão/5.Ano bissexto/1.Ano bissexto.md",
+    "3.aritimética/6.frações/6.porcenagem de qualquer valor.md",
+    "3.aritimética/6.frações/6.Porcentagem de qualquer valor",
+    "images/ano.png",
+    "3.aritimética/5.divisão/5.Ano bissexto",
+    "3.aritimética/7.radiciação/3.quadrado perfeito.md",
+    "q.md",
+    "images/kz.png",
     "3.aritimética/7.radiciação/2.potencia x radiciação.md",
+    "images/ig.png",
+    "images/pf.png",
+    "images/pref.png",
     "3.aritimética/7.radiciação/1. O que é radiciação.md",
+    "3.aritimética/6.frações/5.tipos de frações.md",
+    "3.aritimética/5.divisão/1.divisão/2.Tipos de quocientes.md",
+    "3.aritimética/4.potenciação/3.memorizar.md",
+    "3.aritimética/3.mutiplicação/2.multiplos/2.Tipos de Multiplos.md",
+    "0.road-map/ROTEIRO COMPLETO DE ESTUDO EM MATEMÁTICA.md",
     "images/zk.png",
     "images/brz.png",
-    "images/rac.png",
-    "images/3v.png",
-    "images/raiz4.png",
-    "images/raiz3.png",
-    "images/raiz2.png",
-    "images/raiz1.png",
-    "0.road-map/ROTEIRO COMPLETO DE ESTUDO EM MATEMÁTICA.md",
     "3.aritimética/7.radiciação",
-    "3.aritimética/6.frações/5.tipos de frações.md",
-    "images/apro.png",
-    "images/improz.png",
     "3.aritimética/5.divisão/4.mdc/2.processo de simplificação.md",
     "3.aritimética/5.divisão/4.mdc/1.mdc.md",
     "3.aritimética/5.divisão/3.par ou impar/1.O que é par e impar.md",
-    "3.aritimética/3.mutiplicação/2.multiplos/2.Tipos de Multiplos.md",
     "3.aritimética/0pemdas/1.pemdas.md",
     "3.aritimética/0pemdas",
     "3.aritimética/3.multiplicação/0.tabuada.md",
@@ -204,14 +213,6 @@
     "3.aritimética/1.adição/Sem título",
     "3.aritimética/4.potenciação",
     "3.aritimética/3.multiplicação",
-    "3.aritimética/2.subtração",
-    "3.aritimética/1.adição",
-    "3.aritimética/Sem título.md",
-    "1.Classes e ordens/1.Classes e ordens numéricas.md",
-    "2.conjuntos/3.racionais-decimais Q.md",
-    "2.conjuntos/1.naturais N.md",
-    "2.conjuntos/2.inteiros Z.md",
-    "1.aritimética/Sem título.md",
-    "Bem-vindo.md"
+    "3.aritimética/Sem título.md"
   ]
 }
