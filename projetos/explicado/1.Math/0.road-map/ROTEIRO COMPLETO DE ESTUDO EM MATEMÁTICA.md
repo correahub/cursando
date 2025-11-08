@@ -10,8 +10,8 @@ Panorama de Estudos
 		1.1.5. ==Divisão==.
 		1.1.6. ==Frações==.
 		1.1.7. ==Radiciação==.
-	1.4. Números Irracionais.
-	1.5. Números Reais.
+	1.4. ==Números Irracionais==.
+	1.5. ==Números Reais==.
 
 	2. Razão e Proporção.
 	3. Medidas Estatísticas.
