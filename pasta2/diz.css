@@ -10,9 +10,10 @@
 }
 
 .div0:hover {
-  transform: translate(500px, 300px) rotate(365deg) scale(3, 2)
+  /* transform: translate(500px, 300px) rotate(365deg) scale(3, 2)
     skew(10deg, 10deg);
-  cursor: pointer;
+  cursor: pointer; */
+  transform: skew(10deg, 10deg);
 }
 
 .pz {
