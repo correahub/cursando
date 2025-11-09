@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-css/1.códigos/8.animations/1.transformes/4.skew(x,y)_.md",
+                "file": "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.skew(x,y)_"
+              "title": "dicas 1"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "0a96e3cf84291625",
   "lastOpenFiles": [
+    "2-css/1.códigos/8.animations/1.transformes/4.skew(x,y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/3.scale(x, y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/2.rotate(angulo).md",
     "2-css/1.códigos/8.animations/1.transformes/1.translate(x,y).md",
@@ -202,7 +203,6 @@
     "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem",
     "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno",
     "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe",
-    "1-html/1.códigos/8-(a) links e hiperlinks/Sem título.md",
     "Sem título.base",
     "2-css/1.códigos/8.animations/1.transformes/desktop.ini",
     "2-css/1.códigos/8.animations/1.transformes"
