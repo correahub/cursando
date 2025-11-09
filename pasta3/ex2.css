@@ -1,0 +1,46 @@
+.div-hero {
+  width: 350px;
+  margin: 150px auto;
+  border: 2px solid black;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.div-hero_input{
+    display: none;
+}
+
+label{
+    margin-left: 1em;
+}
+
+.div-hero_input + .div-hero_label > .div-hero_label_span {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 0.1em solid black;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.div-hero_input:checked + .div-hero_label > .div-hero_label_span {
+  background-color: lime;
+  position: relative;
+}
+
+.div-hero_input:checked + .div-hero_label > .div-hero_label_span::before {
+  content: "";
+  width: 0.3em;
+  height: 0.6em;
+  border: 0.15em solid white;
+  border-top: 0;
+  border-left: 0;
+  position: absolute;
+  top: 0.01em;
+  left: 0.3em;
+
+  transform: rotate(45deg);
+}
