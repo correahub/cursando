@@ -53,17 +53,10 @@
 .div-hero_label_input:focus + .div-hero_label_span{
     outline: 2px solid black;
 }
-.div-hero_label_input:checked + .div-hero_label_span{
-    border-color: lime;
-    background-color: aliceblue;
-    
-}
+
 
 .div-hero_label_input:checked + .div-hero_label_span::after {
   content: "";
   position: absolute;
-  left: calc(100% - 0.9em);
-  border: 1px solid lime;
-  background-color: lime;
-
+  left: calc(100% - .9em);
 }
