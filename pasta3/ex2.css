@@ -1,6 +1,5 @@
 .div-hero {
   width: 350px;
-  margin: 150px auto;
   border: 2px solid black;
   height: 150px;
   display: flex;
@@ -8,13 +7,12 @@
   justify-content: center;
 }
 
-
-.div-hero_input{
-    display: none;
+.div-hero_input {
+  display: none;
 }
 
-label{
-    margin-left: 1em;
+label {
+  margin-left: 1em;
 }
 
 .div-hero_input + .div-hero_label > .div-hero_label_span {
@@ -39,8 +37,64 @@ label{
   border-top: 0;
   border-left: 0;
   position: absolute;
-  top: 0.01em;
+  top: 0em;
   left: 0.3em;
 
   transform: rotate(45deg);
+}
+/*************************************************************************/
+
+.div-hero1 {
+  width: 350px;
+  height: 150px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+}
+
+.div-hero1_label_span {
+  font-size: 25px;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 0.1em solid black;
+  cursor: pointer;
+  position: relative;
+}
+
+.div-hero1_label_input {
+  height: 1px;
+  width: 1px;
+  border: 0;
+  margin: 0;
+  outline: 0;
+  overflow: hidden;
+  position: absolute;
+}
+
+.div-hero1_label_input:focus + .div-hero1_label_span{
+    outline: 1px solid black;
+}
+
+.div-hero1_label_input:checked + .div-hero1_label_span {
+  background-color: lime;
+}
+
+.div-hero1_label_input + .div-hero1_label_span::before {
+  content: "";
+  width: 0.3em;
+  height: 0.7em;
+  border-right: 0.15em solid rgb(255, 255, 255);
+  border-bottom: 0.15em solid rgb(255, 255, 255);
+  position: absolute;
+  left: 0.3em;
+  transform: rotate(45deg);
+  opacity: 0;
+}
+
+.div-hero1_label_input:checked + .div-hero1_label_span::before {
+  opacity: 1;
+  transition: background-color 0.3s, opacity 0.8s;
 }

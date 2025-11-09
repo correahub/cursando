@@ -1,0 +1,69 @@
+.div-hero {
+  width: 500px;
+  height: 100px;
+  margin: 80px auto;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-hero_label {
+  --color: #cfd8dc;
+  position: relative;
+}
+
+.div-hero_label_span {
+  display: inline-block;
+  font-size: 50px;
+  height: 1em;
+  width: 2em;
+  border-radius: 1em;
+  background-color: var(--color);
+  cursor: pointer;
+  position: relative;
+  border: 2px solid rgb(117, 117, 117);
+}
+
+.div-hero_label_span::after {
+  content: "";
+  display: inline-block;
+  height: 1em;
+  width: 0.9em;
+  position: absolute;
+  left: -0.05em;
+  background-color: rgb(117, 117, 117);
+  border-radius: 50%;
+}
+
+
+.div-hero_label_input{
+    height: 1px;
+    width: 1px;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    position: absolute;
+    overflow: hidden;
+    top: 1em;
+    left: 1em;
+}
+
+.div-hero_label_input:focus + .div-hero_label_span{
+    outline: 2px solid black;
+}
+.div-hero_label_input:checked + .div-hero_label_span{
+    border-color: lime;
+    background-color: aliceblue;
+    
+}
+
+.div-hero_label_input:checked + .div-hero_label_span::after {
+  content: "";
+  position: absolute;
+  left: calc(100% - 0.9em);
+  border: 1px solid lime;
+  background-color: lime;
+
+}
