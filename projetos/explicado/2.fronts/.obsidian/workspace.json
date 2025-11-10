@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
+                "file": "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/2.normalize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dicas 1"
+              "title": "2.normalize"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "0a96e3cf84291625",
   "lastOpenFiles": [
+    "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2-css/1.códigos/8.animations/1.transformes/4.skew(x,y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/3.scale(x, y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/2.rotate(angulo).md",
@@ -199,7 +200,6 @@
     "1-html/1.códigos/12.tables/2.Tabela grandes/border collapse.md",
     "1-html/1.códigos/12.tables/11.colgroup.md",
     "1-html/1.códigos/12.table tabelas/1.Tabela simples/Sem título",
-    "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/2.(dl) lista de definição.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem",
     "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno",
     "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe",
