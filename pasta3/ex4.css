@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+
+.div-hero {
+  width: 400px;
+  background-color: white;
+  height: 100px;
+  border: 2px solid black;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.div-hero_label {
+  margin-left: 0.5em;
+}
+
+.div-hero_label_span {
+  display: inline-block;
+  font-size: 25px;
+  width: 1em;
+  height: 1em;
+  border: 0.1em solid black;
+  cursor: pointer;
+  position: relative;
+}
+
+.div-hero_input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.div-hero_input:focus-visible + .div-hero_label > .div-hero_label_span {
+  outline: 2px solid black;
+  outline-offset: 3px;
+}
+
+.div-hero_input:checked + .div-hero_label > .div-hero_label_span {
+  background-color: lime;
+}
+
+.div-hero_input:checked + .div-hero_label > .div-hero_label_span::after {
+  content: "";
+  display: inline-block;
+  border-right: 0.15em solid white;
+  border-bottom: 0.15em solid white;
+  height: 0.6em;
+  width: 0.3em;
+  position: absolute;
+  top: 0.1em;
+  left: 0.3em;
+
+  transform: rotate(45deg);
+}

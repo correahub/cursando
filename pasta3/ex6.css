@@ -1,0 +1,56 @@
+div {
+  font-size: 25px;
+  width: 25em;
+  height: 5em;
+  border: 0.3em solid black;
+  margin: 0.8em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+span {
+  display: inline-block;
+  height: 1em;
+  width: 2em;
+  border-radius: 0.45em;
+  border: 0.1em solid grey;
+  cursor: pointer;
+}
+
+span::after {
+  content: "";
+  display: inline-block;
+  background-color: rgb(124, 124, 124);
+  height: 1em;
+  width: 1em;
+  border-radius: 0.45em;
+  transform: translateX(-0.02em);
+}
+input:not(:checked) + label > span {
+  background-color: rgb(255, 255, 255);
+}
+
+input:checked + label > span {
+  background-color: rgb(129, 131, 130);
+  border-color: rgba(93, 141, 109, 0.384);
+}
+
+input:checked + label > span::after {
+  transform: translateX(1em);
+  background-color: white;
+}
+
+input:focus + label > span {
+  outline: 1px solid black;
+  outline-offset: 2px;
+}
+
+input {
+  opacity: 0;
+  pointer-events: none;
+  height: 1px;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
