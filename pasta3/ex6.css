@@ -31,6 +31,8 @@ body {
 .main-hero_list_item_img {
   display: block;
   min-width: 100%;
+  transform: scale(0.95);
+  transition: transform 1s;
 }
 
 .main-hero_list_item {
@@ -38,7 +40,6 @@ body {
   opacity: 0.5;
   transition: opacity 1s;
   cursor: pointer;
-  flex: 1;
 }
 
 .main-hero_list_item_p {
@@ -49,16 +50,24 @@ body {
   width: calc(100% - 1em);
   background-color: #312824d0;
   padding: 0.5em;
+  opacity: 0;
+  pointer-events: none;
   text-transform: uppercase;
   color: white;
-  opacity: 0;
-  transition: opacity 1s;
+  transition: all 0.5s ease-in-out;
+  transform: translateY(100%);
 }
 
 .main-hero_list_item:hover {
   opacity: 1;
 }
 
+.main-hero_list_item:hover > .main-hero_list_item_img {
+  transform: scale(1) rotate(-5deg);
+}
+
 .main-hero_list_item:hover > .main-hero_list_item_p {
   opacity: 1;
+  transform: translateY(0em) rotate(-5deg);
+  pointer-events: all;
 }
