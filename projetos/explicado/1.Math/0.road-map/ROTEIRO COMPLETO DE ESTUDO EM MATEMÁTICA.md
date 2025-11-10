@@ -13,8 +13,13 @@ Panorama de Estudos
 	1.4. ==Números Irracionais==.
 	1.5. ==Números Reais==.
 
-	2. Razão e Proporção.
+	2. ==Razão e Proporção==.
 	3. Medidas Estatísticas.
+		3.1.1 - ==Média==
+		3.1.2 - ==Mediana==
+		3.1.3 - Moda
+		3.1.4 - Amplitude
+		
 	4. Regra de Três (Função Linear).
 	5. Porcentagem.
 	6. Juros Simples.
