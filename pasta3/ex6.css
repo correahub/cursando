@@ -12,12 +12,10 @@ body {
   min-height: 100%;
 }
 
-.header-hero_h1 {
-  /**/
-}
 .main-hero {
   background-color: #fffffe;
   width: 80%;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.514);
 }
 .main-hero_list {
   list-style: none;
