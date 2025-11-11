@@ -50,10 +50,12 @@ body {
   justify-content: flex-end;
 }
 .header-hero_nav_ul_li_a {
-  font-size: 2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
   text-align: right;
   text-transform: uppercase;
   text-decoration: none;
+  letter-spacing: 0.1rem;
   color: white;
   padding: 1.4rem;
   width: 100%;
@@ -95,4 +97,22 @@ abbr {
 }
 .main-hero_p:nth-child(4) {
   color: rgb(206, 204, 204);
+}
+.main-hero_section {
+  /*Section*/
+}
+
+.main-hero_section_ul {
+  list-style-type: none;
+  display: flex;
+  gap: 2rem;
+  padding-left: 0;
+}
+.main-hero_section_ul_li{
+    /*li*/
+}
+.main-hero_section_ul_li_a{
+    color: white;
+    font-size: 1.6rem;
+    text-decoration: none;
 }
