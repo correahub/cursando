@@ -38,9 +38,6 @@ body {
   padding: 1rem;
 }
 
-.header-hero_nav {
-  /*NAV*/
-}
 .header-hero_nav_ul {
   list-style-type: none;
 }
@@ -98,9 +95,6 @@ abbr {
 .main-hero_p:nth-child(4) {
   color: rgb(206, 204, 204);
 }
-.main-hero_section {
-  /*Section*/
-}
 
 .main-hero_section_ul {
   list-style-type: none;
@@ -108,11 +102,9 @@ abbr {
   gap: 2rem;
   padding-left: 0;
 }
-.main-hero_section_ul_li{
-    /*li*/
-}
-.main-hero_section_ul_li_a{
-    color: white;
-    font-size: 1.6rem;
-    text-decoration: none;
+
+.main-hero_section_ul_li_a {
+  color: white;
+  font-size: 1.6rem;
+  text-decoration: none;
 }
