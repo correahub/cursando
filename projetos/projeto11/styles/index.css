@@ -16,6 +16,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/*header*/
+
 .header-hero {
   background-color: var(--background-color-header);
   width: 30rem;
@@ -46,7 +48,6 @@ body {
 .header-hero_nav_ul_li {
   display: flex;
   justify-content: flex-end;
- 
 }
 .header-hero_nav_ul_li_a {
   font-size: 2rem;
@@ -64,4 +65,34 @@ body {
 .header-hero_nav_ul_li_a:hover {
   background-color: var(--colr-hover-links);
   transform: scale(1);
+}
+/*main*/
+.main-hero {
+  background-color: var(--background-color-main);
+  width: 100%;
+  padding-left: 2rem;
+}
+.main-hero_div {
+  padding: 2rem;
+}
+.main-hero_h1 {
+  font-size: 4.4em;
+  color: var(--color-titles);
+}
+.main-hero_p {
+  font-size: 1.6rem;
+}
+
+abbr {
+  text-decoration: underline;
+}
+
+.main-hero_p:nth-child(2),
+.main-hero_p:nth-child(3),
+.main-hero_p:nth-child(5) {
+  color: var(--color-paragrafo);
+  font: 900 2.2rem verdana;
+}
+.main-hero_p:nth-child(4) {
+  color: rgb(206, 204, 204);
 }
