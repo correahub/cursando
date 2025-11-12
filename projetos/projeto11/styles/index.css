@@ -18,7 +18,6 @@ body {
     no-repeat;
 }
 
-
 .header-hero {
   background-color: var(--background-color-header);
   max-width: 30rem;
@@ -48,6 +47,7 @@ body {
   display: flex;
   justify-content: flex-end;
 }
+
 .header-hero_nav_ul_li_a {
   font-size: 1.6rem;
   font-weight: 500;
@@ -56,16 +56,18 @@ body {
   text-decoration: none;
   letter-spacing: 0.1rem;
   color: white;
-  padding: 1.4rem;
+  padding: 1.3rem;
   width: 100%;
-  transform: scaleX(0.98);
-  transition: transform 0.2s;
   border-bottom: 1px solid white;
+  transition: padding 0.2s ease;
 }
 
 .header-hero_nav_ul_li_a:hover {
   background-color: var(--colr-hover-links);
-  transform: scale(1);
+  padding: 1.3rem 1.6rem;
+}
+.header-hero_nav_ul_li:has(a:hover) {
+  border-top: 0.5rem solid rgb(45, 55, 75);
 }
 /*main*/
 .main-hero {
