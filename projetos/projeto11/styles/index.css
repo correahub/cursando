@@ -22,7 +22,7 @@ body {
 
 .header-hero {
   background-color: var(--background-color-header);
-  width: 30rem;
+  max-width: 30rem;
   display: flex;
   flex-direction: column;
   justify-content: right;
@@ -80,22 +80,20 @@ body {
   font-size: 4.4em;
   color: var(--color-titles);
 }
-.main-hero_p {
-  font-size: 1.6rem;
-}
 
 abbr {
   text-decoration: underline;
 }
 
-.main-hero_p:nth-child(2),
-.main-hero_p:nth-child(3),
-.main-hero_p:nth-child(5) {
+.main-hero_p2,
+.main-hero_p1,
+.main-hero_p4 {
   color: var(--color-paragrafo);
   font: 900 2.2rem verdana;
 }
-.main-hero_p:nth-child(4) {
+.main-hero_p3 {
   color: rgb(206, 204, 204);
+  font-size: 1.6rem;
 }
 
 .main-hero_section_ul {
@@ -109,4 +107,7 @@ abbr {
   color: white;
   font-size: 1.6rem;
   text-decoration: none;
+}
+.main-hero_section_ul_li_a:hover {
+  color: var(--color-paragrafo);
 }

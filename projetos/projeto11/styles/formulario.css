@@ -2,8 +2,8 @@
 :root {
   font-size: 62.5%;
 
-  --background-color-header: #31333c;
-  --background-color-main: #454857;
+  --background-color-header: #31333cc2;
+  --background-color-main: #454857c2;
   --color-paragrafo: #df7e51;
   --color-titles: #a3a6b3;
   --colr-hover-links: #454857;
@@ -14,13 +14,15 @@ body {
   margin: 0;
   display: flex;
   font-family: Arial, Helvetica, sans-serif;
+  background: url("/images/imagens/bg-unsplash.png") bottom right / cover
+    no-repeat;
 }
 
 /*header*/
 
 .header-hero {
   background-color: var(--background-color-header);
-  width: 30rem;
+  max-width: 30rem;
   display: flex;
   flex-direction: column;
   justify-content: right;
@@ -66,12 +68,8 @@ body {
   transform: scale(1);
 }
 /*main*/
-
 .main-hero {
   background-color: var(--background-color-main);
   width: 100%;
   padding-left: 2rem;
-}
-.main-hero_div {
-  padding: 2rem;
 }
