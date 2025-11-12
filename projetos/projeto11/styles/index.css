@@ -56,19 +56,17 @@ body {
   text-decoration: none;
   letter-spacing: 0.1rem;
   color: white;
-  padding: 1.3rem;
+  padding: 1.3rem 0em;
   width: 100%;
   border-bottom: 1px solid white;
-  transition: padding 0.2s ease;
+  transition: padding 0.3s ease-in-out;
 }
 
 .header-hero_nav_ul_li_a:hover {
   background-color: var(--colr-hover-links);
   padding: 1.3rem 1.6rem;
 }
-.header-hero_nav_ul_li:has(a:hover) {
-  border-top: 0.5rem solid rgb(45, 55, 75);
-}
+
 /*main*/
 .main-hero {
   background-color: var(--background-color-main);
@@ -80,6 +78,7 @@ body {
 }
 .main-hero_h1 {
   font-size: 4.4em;
+  margin: 2rem 0;
   color: var(--color-titles);
 }
 
