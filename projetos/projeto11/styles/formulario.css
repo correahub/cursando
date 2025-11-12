@@ -1,16 +1,16 @@
 @charset "UTF-8";
 :root {
-  font-size: 62.5%;
-
   --background-color-header: #31333cc2;
   --background-color-main: #454857c2;
   --color-paragrafo: #df7e51;
   --color-titles: #a3a6b3;
   --colr-hover-links: #454857;
 }
-
+html {
+  font-size: 62.5%;
+}
 body {
-  height: 100vh;
+  min-height: 100vh;
   margin: 0;
   display: flex;
   font-family: Arial, Helvetica, sans-serif;
@@ -18,11 +18,11 @@ body {
     no-repeat;
 }
 
-/*header*/
 
 .header-hero {
   background-color: var(--background-color-header);
   max-width: 30rem;
+  flex: 0 0 calc(30rem - 1rem);
   display: flex;
   flex-direction: column;
   justify-content: right;
@@ -34,8 +34,8 @@ body {
   justify-content: flex-end;
 }
 .header-hero_div_img {
-  height: 15rem;
-  width: 15rem;
+  height: 10rem;
+  width: 10rem;
   border-radius: 50%;
   padding: 1rem;
 }
@@ -70,6 +70,9 @@ body {
 /*main*/
 .main-hero {
   background-color: var(--background-color-main);
-  width: 100%;
+  flex: 1 0;
   padding-left: 2rem;
+}
+.main-hero_div {
+  padding: 2rem;
 }
