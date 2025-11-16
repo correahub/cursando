@@ -19,8 +19,8 @@ Panorama de Estudos
 		3.2 - ==Mediana==
 		3.3 - ==Moda==
 		3.4 - ==Amplitude==
-		3.5 - Variância
-		3.6 - Desvio Padrão
+		3.5 - ==Variância==
+		3.6 - ==Desvio Padrão==
 		3.7 - Quartis e Percentis
 		3.8 - Coeficiente de Variação
 	4. Regra de Três (Função Linear).
