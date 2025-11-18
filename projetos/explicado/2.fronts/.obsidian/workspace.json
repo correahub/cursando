@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9219e51860b911db",
+        "id": "660efafa85db63be",
         "type": "tabs",
         "children": [
           {
-            "id": "16981e967f084c00",
+            "id": "3fdc6ba4febd2b66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-html/1.códigos/6-formatação/7.pre e code.md",
+                "file": "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/1.ul e ol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.pre e code"
+              "title": "1.ul e ol"
             }
           }
         ]
@@ -169,12 +169,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "16981e967f084c00",
+  "active": "3fdc6ba4febd2b66",
   "lastOpenFiles": [
-    "1-html/1.códigos/6-formatação/8.1COTINUAR AMANHA.md",
+    "1-html/1.códigos/6-formatação/11.time.md",
+    "1-html/1.códigos/6-formatação/10.(abbr) siglas significado.md",
+    "1-html/1.códigos/6-formatação/11.dfn.md",
+    "1-html/1.códigos/6-formatação/9.cite.md",
     "1-html/1.códigos/6-formatação/8.(q) citação simples, (blockquote)citação em bloco.md",
-    "1-html/1.códigos/6-formatação/7.md",
     "1-html/1.códigos/6-formatação/7.pre e code.md",
+    "1-html/1.códigos/6-formatação/8.1COTINUAR AMANHA.md",
+    "1-html/1.códigos/6-formatação/7.md",
     "1-html/1.códigos/6-formatação/6.(sub) e (sup) em baixo e em cima.md",
     "1-html/1.códigos/6-formatação/5.(del) e (ins) deletado e inserido.md",
     "1-html/1.códigos/6-formatação/4.(mark), marcação.md",
@@ -187,16 +191,12 @@
     "1-html/1.códigos/3-(hr) e (br)Linha horizontal e Quebra de linha/(br) quebra de linha.md",
     "1-html/1.códigos/2-(p) parágrafo/(p) parágrafo.md",
     "1-html/1.códigos/1-(h1 h6)Titlo nível 1 a nível 6/(h1 h6)Titlo nível 1 a nível 6.md",
-    "1-html/1.códigos/6-formatação/11.time.md",
-    "1-html/1.códigos/6-formatação/10.dfn.md",
-    "1-html/1.códigos/6-formatação/9.(abbr) siglas significado.md",
     "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/2.(dl) lista de definição.md",
     "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/2.normalize.md",
     "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2-css/1.códigos/8.animations/1.transformes/4.skew(x,y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/3.scale(x, y)_.md",
     "2-css/1.códigos/8.animations/1.transformes/2.rotate(angulo).md",
-    "2-css/1.códigos/8.animations/1.transformes/1.translate(x,y).md",
     "1-html/1.códigos/12.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
     "1-html/1.códigos/12.table tabelas/1.Tabela simples/Sem título",
