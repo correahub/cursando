@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e47f7009e648071",
+        "id": "3e6f8fac6cb48fba",
         "type": "tabs",
         "children": [
           {
-            "id": "097b79f6af7ff7cb",
+            "id": "0cc4009608c8a160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-html/1.códigos/11.tables/0.CONTINUAR AQUI.md",
+                "file": "1-html/1.códigos/11.tables/8.colspan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.CONTINUAR AQUI"
+              "title": "8.colspan"
             }
           }
         ]
@@ -169,9 +169,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "097b79f6af7ff7cb",
+  "active": "0cc4009608c8a160",
   "lastOpenFiles": [
+    "1-html/1.códigos/11.tables/10.scope.md",
+    "1-html/1.códigos/11.tables/9.rowspan.md",
+    "1-html/1.códigos/11.tables/8.colspan.md",
+    "1-html/1.códigos/11.tables/0.table.md",
+    "1-html/1.códigos/11.tables/2.thead.md",
+    "1-html/1.códigos/11.tables/1.caption.md",
     "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
+    "1-html/1.códigos/6-formatação/3.(em)italico.md",
+    "1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/1.meta author.md",
+    "3-javascript/1.códigos/0.apresentação eregex/0.Regex/1.Regex/oque é regex.md",
     "1-html/1.códigos/11.tables/0.CONTINUAR AQUI.md",
     "1-html/1.códigos/10.details e popover/1.details/1.detais.md",
     "1-html/1.códigos/10.details e popover/1.details/2.seletor por atributo.md",
@@ -187,17 +196,8 @@
     "1-html/1.códigos/9-wireframe/3.(main) principal da pagina.md",
     "1-html/1.códigos/9-wireframe/2.nav(navegar).md",
     "1-html/1.códigos/9-wireframe/1.Header(cabeçalho).md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/1.Oque é iframe/1.Oque é iframe.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/1.Oque é iframe/2.abrir página abaixo.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/5.sandbox/1.sandbox.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/6.Referrerpolicy/1.Referrerpolicy.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.iframe/4.srcdoc/1.srcdoc.md",
-    "1-html/1.códigos/6-formatação/11.time.md",
-    "1-html/1.códigos/6-formatação/8.(q) citação simples, (blockquote)citação em bloco.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/1.Oque é iframe.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
-    "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno/1.link externo e intenro.md",
-    "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/3.list style.md",
     "1-html/1.códigos/10.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
     "1-html/1.códigos/12.table tabelas/1.Tabela simples/Sem título",
