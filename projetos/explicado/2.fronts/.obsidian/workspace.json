@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e6f8fac6cb48fba",
+        "id": "116ab22c1f53751e",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc4009608c8a160",
+            "id": "80dcf5d5ecb812fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-html/1.códigos/11.tables/8.colspan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.colspan"
+              "title": "Nova aba"
             }
           }
         ]
@@ -169,34 +165,34 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0cc4009608c8a160",
+  "active": "86759727e5282a3d",
   "lastOpenFiles": [
+    "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
+    "1-html/1.códigos/12.formulário/2.input/7.button/1.buttons e seus tipos.md",
+    "1-html/1.códigos/12.formulário/2.input/7.button/1.type-button.md",
+    "1-html/1.códigos/12.formulário/2.input/7.button/2.button e seus types.md",
+    "1-html/1.códigos/12.formulário/2.input/7.button/3.submit.md",
+    "1-html/1.códigos/12.formulário/2.input/7.button/4.reset.md",
+    "1-html/1.códigos/12.formulário/2.input/6.radio/1.radio.md",
+    "1-html/1.códigos/12.formulário/2.input/5.checkbox/1.checkbox.md",
+    "1-html/1.códigos/12.formulário/2.input/5.checkbox/2.checked.md",
+    "1-html/1.códigos/12.formulário/2.input/4.number/1.number.md",
+    "1-html/1.códigos/12.formulário/2.input/3.password/1.password.md",
+    "1-html/1.códigos/9-wireframe/7.footer(rodapé do site).md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/2.abrir página abaixo.md",
+    "1-html/1.códigos/6-formatação/11.time.md",
+    "1-html/1.códigos/6-formatação/9.cite.md",
+    "1-html/1.códigos/12.formulário/2.input/2.text/1.text.md",
+    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/4.label.md",
+    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/3.Fieldset e Legends.md",
+    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/2. get and post.md",
+    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/1.form.md",
+    "1-html/1.códigos/11.tables/8.colspan.md",
     "1-html/1.códigos/11.tables/10.scope.md",
     "1-html/1.códigos/11.tables/9.rowspan.md",
-    "1-html/1.códigos/11.tables/8.colspan.md",
     "1-html/1.códigos/11.tables/0.table.md",
     "1-html/1.códigos/11.tables/2.thead.md",
     "1-html/1.códigos/11.tables/1.caption.md",
-    "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
-    "1-html/1.códigos/6-formatação/3.(em)italico.md",
-    "1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/1.meta author.md",
-    "3-javascript/1.códigos/0.apresentação eregex/0.Regex/1.Regex/oque é regex.md",
-    "1-html/1.códigos/11.tables/0.CONTINUAR AQUI.md",
-    "1-html/1.códigos/10.details e popover/1.details/1.detais.md",
-    "1-html/1.códigos/10.details e popover/1.details/2.seletor por atributo.md",
-    "1-html/1.códigos/9-wireframe/9.Span.md",
-    "1-html/1.códigos/9-wireframe/7.footer(rodapé do site).md",
-    "1-html/1.códigos/9-wireframe/8.div(caixa para orginzar).md",
-    "1-html/1.códigos/10-(Audio e Video) interno e externo/2.(video externo).md",
-    "1-html/1.códigos/10-(Audio e Video) interno e externo/1.(Áudio) interno.md",
-    "1-html/1.códigos/9-wireframe/lista com codes.md",
-    "1-html/1.códigos/9-wireframe/6.aside(complemento article).md",
-    "1-html/1.códigos/9-wireframe/5.article(conteudo).md",
-    "1-html/1.códigos/9-wireframe/4.(section)organizar conteudo.md",
-    "1-html/1.códigos/9-wireframe/3.(main) principal da pagina.md",
-    "1-html/1.códigos/9-wireframe/2.nav(navegar).md",
-    "1-html/1.códigos/9-wireframe/1.Header(cabeçalho).md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/1.Oque é iframe.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
     "1-html/1.códigos/10.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
