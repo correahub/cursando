@@ -6,7 +6,7 @@
     <title>Document</title>
   </head>
   <body>
-    <form action="#" method="get" enctype="application/x-www-form-urlencoded">
+    <form action="#" method="get" enctype="multipart/form-data" autocomplete="on">
       <fieldset>
         <legend>Date</legend>
         <label for="nascimento"> Data de Nascimento: </label>
@@ -44,6 +44,32 @@
             min="10"
           />
         </label>
+      </fieldset>
+      <fieldset>
+        <legend>Arquivos do COmputador</legend>
+        <label for="arquivos"> Fotos </label>
+        <input type="file" required multiple />
+      </fieldset>
+      <fieldset>
+        <legend>range</legend>
+        <label>
+          Quão fanatico você é por Jesus?
+          <input type="range" name="nivel" min="0" value="2" max="5" />
+        </label>
+        <input
+          type="hidden"
+          value="Ele Realmente Ama JESUS!!"
+          name="Nivel-de-amor"
+        />
+      </fieldset>
+      <fieldset>
+        <legend>
+            Pesquisa
+        </legend>
+        <label for="pesquisa">
+            Buscar:
+        </label>
+        <input type="search" name="pesquisa" id="pesquisa">
       </fieldset>
     </form>
   </body>
