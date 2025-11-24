@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42a18c694af6fef0",
+        "id": "a618dae20e3627f2",
         "type": "tabs",
         "children": [
           {
-            "id": "c23d4bd4011b71c9",
+            "id": "b8b4dd92487be132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0.road-map/ROTEIRO COMPLETO DE ESTUDO EM MATEMÁTICA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "ROTEIRO COMPLETO DE ESTUDO EM MATEMÁTICA"
             }
           }
         ]
@@ -162,11 +166,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3940437210fb42a6",
+  "active": "b8b4dd92487be132",
   "lastOpenFiles": [
-    "images/par.png",
-    "5.Medidas Estatísticas/8.0 percenti1.md",
     "5.Medidas Estatísticas/9.Porcentagem relativa (ou participação percentual.md",
+    "5.Medidas Estatísticas/8.0 percenti1.md",
+    "images/par.png",
     "5.Medidas Estatísticas/8.1percentis2.md",
     "images/la.png",
     "images/pzen.png",
@@ -204,7 +208,6 @@
     "4.razão e proporção/3.Proporção.md",
     "4.razão e proporção",
     "3.aritimética/Sem título",
-    "images/ChatGPT Image Nov 8, 2025, 03_56_14 PM.png",
     "2.conjuntos/Sem título",
     "3.aritimética/6.frações/6.Porcentagem de qualquer valor",
     "3.aritimética/5.divisão/5.Ano bissexto",
