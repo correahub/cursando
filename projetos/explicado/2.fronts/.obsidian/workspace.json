@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "116ab22c1f53751e",
+        "id": "4ccf14dc406c12f1",
         "type": "tabs",
         "children": [
           {
-            "id": "80dcf5d5ecb812fc",
+            "id": "d12c42bca4866ac1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "86759727e5282a3d",
+  "active": "d12c42bca4866ac1",
   "lastOpenFiles": [
+    "1-html/1.códigos/12.formulário/3.select/3.CONTINUARRR.md",
+    "1-html/1.códigos/12.formulário/3.select/3.datalist.md",
+    "1-html/1.códigos/12.formulário/3.select/2.optgroup.md",
+    "1-html/1.códigos/12.formulário/3.select/1.select.md",
+    "1-html/1.códigos/12.formulário/2.input/14.search/1.search.md",
+    "1-html/1.códigos/12.formulário/2.input/13.hiden/1.hidden.md",
+    "1-html/1.códigos/12.formulário/2.input/12.range/1.range.md",
+    "1-html/1.códigos/12.formulário/2.input/11.file/1.file.md",
+    "1-html/1.códigos/12.formulário/2.input/10.email/1.email.md",
+    "1-html/1.códigos/12.formulário/2.input/9.color/1.color.md",
+    "1-html/1.códigos/12.formulário/2.input/8.date/1.date.md",
+    "1-html/1.códigos/11.tables/8.colspan.md",
+    "1-html/1.códigos/11.tables/9.rowspan.md",
+    "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
+    "1-html/1.códigos/6-formatação/9.cite-nomeia obras.md",
+    "1-html/1.códigos/6-formatação/2.(strong)negrito.md",
     "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
     "1-html/1.códigos/12.formulário/2.input/7.button/1.buttons e seus tipos.md",
     "1-html/1.códigos/12.formulário/2.input/7.button/1.type-button.md",
@@ -178,21 +194,6 @@
     "1-html/1.códigos/12.formulário/2.input/5.checkbox/2.checked.md",
     "1-html/1.códigos/12.formulário/2.input/4.number/1.number.md",
     "1-html/1.códigos/12.formulário/2.input/3.password/1.password.md",
-    "1-html/1.códigos/9-wireframe/7.footer(rodapé do site).md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/2.abrir página abaixo.md",
-    "1-html/1.códigos/6-formatação/11.time.md",
-    "1-html/1.códigos/6-formatação/9.cite.md",
-    "1-html/1.códigos/12.formulário/2.input/2.text/1.text.md",
-    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/4.label.md",
-    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/3.Fieldset e Legends.md",
-    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/2. get and post.md",
-    "1-html/1.códigos/12.formulário/1.form- HTTPS ESTUDAR NO FUTURO/1.form.md",
-    "1-html/1.códigos/11.tables/8.colspan.md",
-    "1-html/1.códigos/11.tables/10.scope.md",
-    "1-html/1.códigos/11.tables/9.rowspan.md",
-    "1-html/1.códigos/11.tables/0.table.md",
-    "1-html/1.códigos/11.tables/2.thead.md",
-    "1-html/1.códigos/11.tables/1.caption.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
     "1-html/1.códigos/10.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
@@ -201,7 +202,6 @@
     "1-html/1.códigos/8-(a) links e hiperlinks/1.links externos e interno",
     "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe",
     "Sem título.base",
-    "2-css/1.códigos/8.animations/1.transformes/desktop.ini",
-    "2-css/1.códigos/8.animations/1.transformes"
+    "2-css/1.códigos/8.animations/1.transformes/desktop.ini"
   ]
 }
