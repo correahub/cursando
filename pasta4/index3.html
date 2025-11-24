@@ -6,7 +6,7 @@
     <title>Document</title>
   </head>
   <body>
-    <form action="#" method="post" enctype="application/x-www-form-urlencoded">
+    <form action="#" method="get" enctype="application/x-www-form-urlencoded">
       <fieldset>
         <legend>Date</legend>
         <label for="nascimento"> Data de Nascimento: </label>
@@ -19,6 +19,31 @@
           max="2025-01-01"
         />
         <button type="submit">Enviar</button>
+      </fieldset>
+      <fieldset>
+        <legend>color</legend>
+        <label for="cor">Escolha uma Cor:</label>
+        <input
+          type="color"
+          id="cor"
+          name="cor-favorita"
+          required
+          value="#cb8420"
+        />
+      </fieldset>
+      <fieldset>
+        <legend>Email</legend>
+        <label>
+          Email:
+          <input
+            type="email"
+            name="useremail"
+            required
+            placeholder="Seu Email"
+            maxlength="50"
+            min="10"
+          />
+        </label>
       </fieldset>
     </form>
   </body>
