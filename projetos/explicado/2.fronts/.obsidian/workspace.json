@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ccf14dc406c12f1",
+        "id": "710bac63e5ce8377",
         "type": "tabs",
         "children": [
           {
-            "id": "d12c42bca4866ac1",
+            "id": "3816f84e9b96dca4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,10 +165,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d12c42bca4866ac1",
+  "active": "86759727e5282a3d",
   "lastOpenFiles": [
-    "1-html/1.códigos/12.formulário/3.select/3.CONTINUARRR.md",
+    "1-html/1.códigos/12.formulário/5.visualização de Dados/2.PROGRESS/1.progress.md",
+    "1-html/1.códigos/12.formulário/5.visualização de Dados/1.OUTPUT/1.OUTPUT.md",
+    "1-html/1.códigos/12.formulário/4.texarea/2.Resise, readonly,disable.md",
+    "1-html/1.códigos/12.formulário/4.texarea/1.textarea.md",
     "1-html/1.códigos/12.formulário/3.select/3.datalist.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/2.abrir página abaixo.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
+    "1-html/1.códigos/12.formulário/3.select/3.CONTINUARRR.md",
     "1-html/1.códigos/12.formulário/3.select/2.optgroup.md",
     "1-html/1.códigos/12.formulário/3.select/1.select.md",
     "1-html/1.códigos/12.formulário/2.input/14.search/1.search.md",
@@ -188,12 +194,6 @@
     "1-html/1.códigos/12.formulário/2.input/7.button/1.type-button.md",
     "1-html/1.códigos/12.formulário/2.input/7.button/2.button e seus types.md",
     "1-html/1.códigos/12.formulário/2.input/7.button/3.submit.md",
-    "1-html/1.códigos/12.formulário/2.input/7.button/4.reset.md",
-    "1-html/1.códigos/12.formulário/2.input/6.radio/1.radio.md",
-    "1-html/1.códigos/12.formulário/2.input/5.checkbox/1.checkbox.md",
-    "1-html/1.códigos/12.formulário/2.input/5.checkbox/2.checked.md",
-    "1-html/1.códigos/12.formulário/2.input/4.number/1.number.md",
-    "1-html/1.códigos/12.formulário/2.input/3.password/1.password.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
     "1-html/1.códigos/10.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",

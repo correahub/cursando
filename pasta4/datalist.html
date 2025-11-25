@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="@" method="get" enctype="application/x-www-form-urlencoded">
+      <fieldset>
+        <legend>datalist</legend>
+        <label for="list"> Escolha ou escreva: </label>
+        <input list="cor" id="list" name="lista" />
+        
+        <datalist id="cor">
+          <option value="poção-de-vida">+5HP</option>
+          <option value="poção-de-agua">+2HP</option>
+          <option value="poção-de-fogo">+3HP</option>
+
+          <option value="poção-de-fogo">Poção de Areia</option>
+          <option value="poção-de-fogo">Poção de Energia</option>
+          <option value="poção-de-fogo">Poção de Fogo</option>
+        </datalist>
+      </fieldset>
+      <fieldset>
+        <legend>
+            textarea
+        </legend>
+        <label for="menssagem">
+            Menssagem:
+        </label><br>
+        <textarea name="menssagem" id="menssagem" rows="10" cols="40" maxlength="100" style="resize: none;" readonly disabled>O coração............</textarea>
+
+      </fieldset>
+    </form>
+  </body>
+</html>
