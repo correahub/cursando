@@ -1,0 +1,12 @@
+p {
+  background-color: yellow;
+  color: red;
+}
+
+div {
+  width: 80%;
+  height: 500px;
+  margin: auto;
+  background: url("img.webp") center center / 500px no-repeat fixed,
+    linear-gradient(to left, yellow 0%, yellow 30%, red);
+}

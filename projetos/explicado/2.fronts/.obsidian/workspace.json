@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "710bac63e5ce8377",
+        "id": "bed8164dfbcdcc28",
         "type": "tabs",
         "children": [
           {
-            "id": "3816f84e9b96dca4",
+            "id": "967e1060c5ec7307",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-css/1.códigos/1.backgrounds e colors/2.colors/1.color.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1.color"
             }
           }
         ]
@@ -165,35 +169,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "86759727e5282a3d",
+  "active": "967e1060c5ec7307",
   "lastOpenFiles": [
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/7.backgroun-linear.md",
+    "2-css/1.códigos/1.backgrounds e colors/Sem título.md",
+    "2-css/1.códigos/1.backgrounds e colors/2.lineargradiante/2.linear com porcentagem.md",
+    "2-css/1.códigos/1.backgrounds e colors/2.colors/1.color.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/2.background-image url.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/1.background-color.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/5.background-repaet.md",
+    "2-css/1.códigos/1.backgrounds e colors/2.lineargradiante/MULTIPLOS BACKGROUND.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/6.background-attachment.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/4.background-size.md",
+    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/3.background-position.md",
+    "1-html/1.códigos/12.formulário/5.visualização de Dados/3.METER/1.meter.md",
+    "1-html/1.códigos/12.formulário/3.select/3.datalist.md",
+    "1-html/1.códigos/12.formulário/2.input/12.range/1.range.md",
+    "1-html/1.códigos/12.formulário/2.input/8.date/1.date.md",
+    "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
     "1-html/1.códigos/12.formulário/5.visualização de Dados/2.PROGRESS/1.progress.md",
     "1-html/1.códigos/12.formulário/5.visualização de Dados/1.OUTPUT/1.OUTPUT.md",
     "1-html/1.códigos/12.formulário/4.texarea/2.Resise, readonly,disable.md",
     "1-html/1.códigos/12.formulário/4.texarea/1.textarea.md",
-    "1-html/1.códigos/12.formulário/3.select/3.datalist.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/3.links de iframe/1.Oque é iframe/2.abrir página abaixo.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
     "1-html/1.códigos/12.formulário/3.select/3.CONTINUARRR.md",
     "1-html/1.códigos/12.formulário/3.select/2.optgroup.md",
     "1-html/1.códigos/12.formulário/3.select/1.select.md",
     "1-html/1.códigos/12.formulário/2.input/14.search/1.search.md",
-    "1-html/1.códigos/12.formulário/2.input/13.hiden/1.hidden.md",
-    "1-html/1.códigos/12.formulário/2.input/12.range/1.range.md",
-    "1-html/1.códigos/12.formulário/2.input/11.file/1.file.md",
-    "1-html/1.códigos/12.formulário/2.input/10.email/1.email.md",
-    "1-html/1.códigos/12.formulário/2.input/9.color/1.color.md",
-    "1-html/1.códigos/12.formulário/2.input/8.date/1.date.md",
-    "1-html/1.códigos/11.tables/8.colspan.md",
-    "1-html/1.códigos/11.tables/9.rowspan.md",
-    "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
-    "1-html/1.códigos/6-formatação/9.cite-nomeia obras.md",
-    "1-html/1.códigos/6-formatação/2.(strong)negrito.md",
     "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
-    "1-html/1.códigos/12.formulário/2.input/7.button/1.buttons e seus tipos.md",
-    "1-html/1.códigos/12.formulário/2.input/7.button/1.type-button.md",
-    "1-html/1.códigos/12.formulário/2.input/7.button/2.button e seus types.md",
-    "1-html/1.códigos/12.formulário/2.input/7.button/3.submit.md",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
     "1-html/1.códigos/10.details e popover",
     "1-html/1.códigos/0.Meta tag e anatomia/Sem título",
