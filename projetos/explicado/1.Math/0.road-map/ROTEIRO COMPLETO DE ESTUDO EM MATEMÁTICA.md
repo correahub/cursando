@@ -21,17 +21,16 @@ Panorama de Estudos
 		3.4 - ==Amplitude==
 		3.5 - ==Variância==
 		3.6 - ==Desvio Padrão==
-		3.7 - ==Quartis== e Percentis
+		3.7 - ==Quartis== e ==Percentis==
 		3.8 - Coeficiente de Variação
-		3.9 - Desvio padrão populacional e amostral
+		3.9 - ==populacional== e amostral
     
-- **Desvio padrão amostral (dividindo por n−1):**
-    
-    s=53≈1,291s = \sqrt{\frac{5}{3}} \approx 1{,}291
-	2. Regra de Três (Função Linear).
-	3. Porcentagem.
-	4. Juros Simples.
-	5. Probabilidade.
+	4. Regra de Três (Função Linear).
+	4.1 Regra de 3 inversa
+	4.2 Regra de 3 composta
+	5. Porcentagem.
+	6. Juros Simples.
+	7. Probabilidade.
 
 (Álgebra) "Operações com números reais, sem saber exatamente qual é o número". 
 	8. Monômios.
