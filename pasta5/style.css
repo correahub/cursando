@@ -1,12 +1,10 @@
-p {
-  background-color: yellow;
-  color: red;
-}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
-div {
-  width: 80%;
-  height: 500px;
-  margin: auto;
-  background: url("img.webp") center center / 500px no-repeat fixed,
-    linear-gradient(to left, yellow 0%, yellow 30%, red);
+p {
+  color: red;
+  font: 500 26px arial;
+
+  text-align: justify;
+  text-decoration: overline lime wavy;
+  text-indent: 30px;
 }
