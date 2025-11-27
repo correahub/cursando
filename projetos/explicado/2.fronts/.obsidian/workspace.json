@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72648bd4ce6af21d",
+        "id": "5cf640798dc418a9",
         "type": "tabs",
         "children": [
           {
-            "id": "87e1b1c8a381fd28",
+            "id": "e8124957201ea364",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-css/1.códigos/3.text/6.1text-shadow.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "6.1text-shadow"
             }
           }
         ]
@@ -165,16 +169,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "87e1b1c8a381fd28",
+  "active": "e8124957201ea364",
   "lastOpenFiles": [
-    "2-css/1.códigos/3.text/4CONTINUAR AA.md",
+    "2-css/1.códigos/3.text/6.0text-shadow.md",
+    "2-css/1.códigos/3.text/5.letter-spacing.md",
     "2-css/1.códigos/3.text/4.line-height altura de linha.md",
-    "2-css/1.códigos/3.text/Sem título",
     "2-css/1.códigos/3.text/3.text-indent.md",
+    "1-html/1.códigos/12.formulário/5.visualização de Dados/2.PROGRESS/1.progress.md",
+    "1-html/1.códigos/12.formulário/4.texarea/2.Resise, readonly,disable.md",
+    "1-html/1.códigos/12.formulário/3.select/1.select.md",
+    "1-html/1.códigos/11.tables/10.scope.md",
+    "1-html/1.códigos/11.tables/9.rowspan.md",
+    "1-html/1.códigos/11.tables/8.colspan.md",
+    "1-html/1.códigos/10.details e popover/2.popover/1.popover.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
+    "1-html/1.códigos/7-(ul) e (ol) e (dl) listas/2.(dl) lista de definição.md",
+    "2-css/1.códigos/3.text/4CONTINUAR AA.md",
+    "2-css/1.códigos/3.text/Sem título",
     "2-css/1.códigos/3.text/2.text-decoration- p c s.md",
     "2-css/1.códigos/3.text/1.(text-align) alinhamento do texto.md",
     "2-css/1.códigos/3.text/0.color.md",
-    "2-css/1.códigos/3.text/5.space letter.md",
     "2-css/1.códigos/2.fonts-swsf/4.fontes externas/1.fonts.md",
     "2-css/1.códigos/2.fonts-swsf/4.font-family/0.(fonte-family) - tipo da letra.md",
     "2-css/1.códigos/2.fonts-swsf/3.font-size/1.font-size.md",
@@ -184,16 +198,6 @@
     "1-html/1.códigos/12.formulário/3.select/3.datalist.md",
     "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/7.backgroun-linear.md",
     "2-css/1.códigos/1.backgrounds e colors/Sem título.md",
-    "2-css/1.códigos/1.backgrounds e colors/2.lineargradiante/2.linear com porcentagem.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/2.background-image url.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/1.background-color.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/5.background-repaet.md",
-    "2-css/1.códigos/1.backgrounds e colors/2.lineargradiante/MULTIPLOS BACKGROUND.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/6.background-attachment.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/4.background-size.md",
-    "2-css/1.códigos/1.backgrounds e colors/1.c i p t r a , linear gradiante/3.background-position.md",
-    "1-html/1.códigos/12.formulário/5.visualização de Dados/3.METER/1.meter.md",
-    "1-html/1.códigos/12.formulário/2.input/12.range/1.range.md",
     "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
     "1-html/1.códigos/10.details e popover",
