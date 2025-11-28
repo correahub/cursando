@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e684abd81fdb0612",
+        "id": "c06ccb18c2580f54",
         "type": "tabs",
         "children": [
           {
-            "id": "fcefc8927ab5bfdd",
+            "id": "68652cceb7c0c9b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.rem.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "3.rem"
             }
           }
         ]
@@ -165,8 +169,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "86759727e5282a3d",
+  "active": "68652cceb7c0c9b4",
   "lastOpenFiles": [
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.rem.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/2.Relativos ao tamanho pai em EM.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/1.Porcentagem do elemento pai.md",
+    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
+    "1-html/1.códigos/6-formatação/7.pre e code.md",
     "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2-css/2.itens uteis/1.ChekMark.md",
     "2-css/2.itens uteis/imagens/2.swich.md",
@@ -192,11 +201,6 @@
     "2-css/1.códigos/3.text/6.0text-shadow.md",
     "2-css/1.códigos/3.text/5.letter-spacing.md",
     "2-css/1.códigos/3.text/4.line-height altura de linha.md",
-    "2-css/1.códigos/3.text/3.text-indent.md",
-    "1-html/1.códigos/12.formulário/5.visualização de Dados/2.PROGRESS/1.progress.md",
-    "1-html/1.códigos/12.formulário/4.texarea/2.Resise, readonly,disable.md",
-    "1-html/1.códigos/12.formulário/3.select/1.select.md",
-    "1-html/1.códigos/11.tables/10.scope.md",
     "2-css/1.códigos/3.text/Sem título",
     "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
