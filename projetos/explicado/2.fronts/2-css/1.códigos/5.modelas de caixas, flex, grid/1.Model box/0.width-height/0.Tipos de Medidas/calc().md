@@ -1,10 +1,6 @@
-Ótimo! Vamos agora entender a função **`calc()`** no CSS de forma bem simples, como se estivéssemos aprendendo do zero:
-
----
-
 ### 🧠 O que é `calc()`?
 
-A função `calc()` permite **fazer cálculos diretamente no CSS**.
+Calc é a função de medidas que me permite calcular valores para encontrar a medida desejada.
 
 Ela é usada quando você precisa **combinar diferentes unidades** (como `%` com `px`, ou `rem` com `em`), ou ajustar tamanhos de forma dinâmica e precisa.
 
@@ -112,7 +108,3 @@ Você pode usar `calc()` em **qualquer lugar que aceite valores numéricos** no 
     
 - `transform: translateX(calc(...))`
     
-
----
-
-Se quiser, posso te montar um mini-projeto com `calc()` em ação para você ver ao vivo. Deseja isso?

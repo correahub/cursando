@@ -1,45 +1,7 @@
-html{
-  font-size: 10px;
-}
-
-.div1{
-  width: 100rem;
-  margin: 50px auto;
-  border: 1px solid black;
-  height: 50rem;
-}
-
-.div2{
-  width: 80rem;
-  margin: 50px auto;
-  border: 1px solid rgb(255, 0, 0);
-  height: 45rem;
-}
-
-.div2{
-  width: 60rem;
-  margin: 50px auto;
-  border: 1px solid rgb(51, 255, 0);
-  height: 40rem;
-}
-
-.div3{
-  width: 50rem;
-  margin: 50px auto;
-  border: 1px solid rgb(255, 208, 0);
-  height: 35rem;
-}
-
-.div5{
-  width: 40rem;
-  margin: 50px auto;
-  border: 1px solid rgb(0, 153, 255);
-  height: 30rem;
-}
-
-.div6{
-  width: 20rem;
-  margin: 50px auto;
-  border: 1px solid rgb(234, 0, 255);
-  height: 25rem;
+.div1 {
+  width: 500px;
+  height: 500px;
+  border: 0.3em solid lime;
+  background-color: yellow;
+  border-radius: 0px 500px
 }

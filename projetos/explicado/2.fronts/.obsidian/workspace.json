@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c06ccb18c2580f54",
+        "id": "07b12b979b209409",
         "type": "tabs",
         "children": [
           {
-            "id": "68652cceb7c0c9b4",
+            "id": "1f047d442063b7eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.rem.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3.rem"
+              "title": "Nova aba"
             }
           }
         ]
@@ -169,8 +165,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "68652cceb7c0c9b4",
+  "active": "86759727e5282a3d",
   "lastOpenFiles": [
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/2.border com barras.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/3estudar formas geométricas depois.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/1.border-radius.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/1.border Borda E S C.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/2.padding/1.padding oque é.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/2.padding/2.padding top e bottomm right left.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.Modelo de caixa/1.Modelo de caixa.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/calc().md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/4.vw - largura disponível da tela.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.vh - altura disponível da tela.md",
+    "2-css/1.códigos/2.fonts-swsf/4.fontes externas/1.fonts.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.rem.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/2.Relativos ao tamanho pai em EM.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/1.Porcentagem do elemento pai.md",
@@ -188,19 +195,8 @@
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/2.height",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/1.width",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.Modelo de caixa/2.box sizing.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.Modelo de caixa/1.Modelo de caixa.md",
     "2-css/1.códigos/4.display/1.display.md",
-    "2-css/1.códigos/4.display/4.inline-bloco.md",
-    "2-css/1.códigos/4.display/3.inline.md",
-    "2-css/1.códigos/4.display/2.bloco.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.width.md",
-    "2-css/1.códigos/4.display/1.fit min e max-content/2.width min-content.md",
-    "2-css/1.códigos/4.display/1.fit min e max-content/3.width max-content.md",
-    "2-css/1.códigos/3.text/6.1text-shadow.md",
-    "2-css/1.códigos/3.text/6.0text-shadow.md",
-    "2-css/1.códigos/3.text/5.letter-spacing.md",
-    "2-css/1.códigos/3.text/4.line-height altura de linha.md",
     "2-css/1.códigos/3.text/Sem título",
     "1-html/1.códigos/12.formulário/2.input/8.CO AQW",
     "1-html/1.códigos/8-(a) links e hiperlinks/2AMANHA CONTINUAR",
