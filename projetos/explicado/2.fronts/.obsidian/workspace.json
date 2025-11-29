@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/2.box-sizing.md",
+                "file": "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/2.normalize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.box-sizing"
+              "title": "2.normalize"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "popo",
+                "query": "normalize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,11 +169,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "86759727e5282a3d",
+  "active": "7b44e5cacc7b6afb",
   "lastOpenFiles": [
+    "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/1.reset.md",
+    "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/2.normalize.md",
+    "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/0.TPVC.md",
+    "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/3.reset.md",
+    "3.reset.md",
+    "0.Estruturas/1.longin simples/1.Login.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/2.box-sizing.md",
+    "2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/1.border Borda T S C.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.Modelo de caixa/1.Modelo de caixa.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/2.box-sizing.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/2.Relativo ao tamanho da fonte do elemento pai atual.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/1.Porcentagem.md",
     "2-css/1.códigos/3.text/5.text-transform-inherit,initial,unset estudar depois.md",
@@ -191,13 +198,6 @@
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/calc().md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/4.vw - largura disponível da tela.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.vh - altura disponível da tela.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/3.rem.md",
-    "1-html/1.códigos/8-(a) links e hiperlinks/2.links de rolagem/2.link de rolagem.md",
-    "1-html/1.códigos/6-formatação/7.pre e code.md",
-    "2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
-    "2-css/2.itens uteis/1.ChekMark.md",
-    "2-css/2.itens uteis/imagens/2.swich.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/3.fit-content.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/Sem título",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/2.height",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/1.width",
