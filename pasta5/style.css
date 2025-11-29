@@ -1,7 +1,22 @@
-.div1 {
-  width: 500px;
-  height: 500px;
-  border: 0.3em solid lime;
-  background-color: yellow;
-  border-radius: 0px 500px
+div {
+  border: 1px solid lime;
+  width: 50%;
+  height: 300px;
+  margin: 15% auto;
+  text-align: center;
+}
+.p1 {
+  background-color: red;
+  border: 10px solid black;
+  width: 425px;
+  margin: 5px;
+  box-sizing: border-box;
+
+}
+
+.p2 {
+  background-color: red;
+  border: 3px solid black;
+  width: 425px;
+  margin: 5px;
 }
