@@ -7,8 +7,21 @@
     <title>Document</title>
   </head>
   <body>
-    <div class="div1">
-      <p>Olá, tudo bem?</p>
-    </div>
+    <form
+      action="#"
+      method="get"
+      enctype="application/x-www-form-urlencoded"
+      autocomplete="on"
+    >
+      <label for="Pokemon">Pokemon</label>
+      <input list="escolhido" id="Pokemon" name="Pokemon" />
+      <datalist id="escolhido">
+        <option value="Charmander"></option>
+        <option value="Charmilion"></option>
+        <option value="chalizard"></option>
+      </datalist>
+
+      <button type="submit">ENVIAR</button>
+    </form>
   </body>
 </html>
