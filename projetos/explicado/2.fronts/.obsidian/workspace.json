@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32685b59daabd7e0",
+        "id": "18dfd75cc09ea1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1a462a541e381891",
+            "id": "706f211215abeb1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/1.border-radius.md",
+                "file": "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.Position/0.Position.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.border-radius"
+              "title": "0.Position"
             }
           }
         ]
@@ -171,6 +171,15 @@
   },
   "active": "86759727e5282a3d",
   "lastOpenFiles": [
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.Position/Sem título.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.Position/0.Position.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.Position/0.inset.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/7.box-shadows/1.box-shadow.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/7.box-shadows/2.colorido.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/7.box-shadows/1.boxshadow/1.box-shadow.md",
+    "2-css/1.códigos/3.text/8.1text-shadow.md",
+    "2-css/1.códigos/2.fonts-swsf/4.fontes externas/1.fonts.md",
+    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/1.border-radius.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/5.Outeline/1.Outeline externo.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/3.forma geométricas básicas.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/3.clipt-path.md",
@@ -180,7 +189,6 @@
     "2-css/1.códigos/4.display/1.display.md",
     "2-css/1.códigos/3.text/5.text-transform-inherit,initial,unset estudar depois.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/2.border com barras.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/4.border radius/1.border-radius.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/3.fit-content.md",
     "1-html/1.códigos/5-imagens favicons etc/1.(img) imagem/1.(img) imagem.md",
     "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/2.normalize.md",
@@ -189,15 +197,7 @@
     "1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/3.reset.md",
     "3.reset.md",
     "0.Estruturas/1.longin simples/1.Login.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/2.box-sizing.md",
-    "2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/3.border/1.border Borda T S C.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/1.Modelo de caixa/1.Modelo de caixa.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/2.Relativo ao tamanho da fonte do elemento pai atual.md",
-    "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/1.Porcentagem.md",
-    "2-css/1.códigos/2.fonts-swsf/4.fontes externas/1.fonts.md",
     "2-css/1.códigos/3.text/faltou o text-transforme",
-    "2-css/1.códigos/0.root e anatomia/1.SDPV/1.oque é seletor, declaração, propriedade, valor.md",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/0.Tipos de Medidas/Sem título",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/2.height",
     "2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.width-height/1.width",
