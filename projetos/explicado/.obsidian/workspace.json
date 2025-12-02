@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7854064bdf5674e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc2b407f1344793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7212fe2d202d26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.fronts/0.Estruturas/1.login simples/1.Login.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Login"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e856e3527a248a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25eba73bedc3878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d68e31116c8b7b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f5ce01623cb93fd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "65155f71804f256c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fbf90d264e3f64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "514c748c263c1f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9517f1f57b6c843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.Math/6.regra de 3 - função linear/O que é regra de 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para O que é regra de 3"
+            }
+          },
+          {
+            "id": "dca13d0b6c38a81e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Math/6.regra de 3 - função linear/O que é regra de 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para O que é regra de 3"
+            }
+          },
+          {
+            "id": "ca3127237558b82f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5150cda6d1e6ac65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "940b522324db8784",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.Math/6.regra de 3 - função linear/O que é regra de 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de O que é regra de 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "9d68e31116c8b7b7",
+  "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/9.Position/0.Position.md",
+    "2.fronts/2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/9.Position/2.Position Relative.md",
+    "2.fronts/2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/9.Position/1.static.md",
+    "2.fronts/2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/8.box-shadows/1.box-shadow.md",
+    "2.fronts/2-css/1.códigos/5.modelas de caixas, flex, grid/1.Model box/0.Modelo de caixa/1.Modelo de caixa.md",
+    "1.Math/6.regra de 3 - função linear/O que é regra de 3.md",
+    "1.Math/5.Medidas Estatísticas/9.Porcentagem relativa (ou participação percentual.md",
+    "1.Math/5.Medidas Estatísticas/8.1percentis2.md",
+    "1.Math/5.Medidas Estatísticas/8.0 percenti1.md",
+    "1.Math/3.aritimética/3.mutiplicação/2.multiplos/2.Tipos de Multiplos.md"
+  ]
+}
