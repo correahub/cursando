@@ -1,0 +1,35 @@
+.div1 {
+  width: 80%;
+  margin: 1% auto;
+  background-color: black;
+  border: 2px solid lime;
+  box-sizing: border-box;
+  height: 380px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.div2 {
+  width: 25%;
+  height: 25%;
+  background-color: rgb(233, 14, 14);
+  border: 2px solid rgb(0, 26, 255);
+  box-sizing: border-box;
+}
+
+.div3 {
+  width: 25%;
+  height: 25%;
+  background-color: rgb(14, 153, 233);
+  border: 2px solid rgb(247, 0, 255);
+  box-sizing: border-box;
+}
+
+.div4 {
+  width: 25%;
+  height: 25%;
+  background-color: rgb(21, 66, 17);
+  border: 2px solid rgb(208, 255, 0);
+  box-sizing: border-box;
+}
