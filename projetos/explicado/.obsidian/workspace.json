@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41391839ad16b155",
+        "id": "acb4819de5545a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d8a571d1b8a29e",
+            "id": "d1658df9a3e26cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/3.flex shrink.md",
+                "file": "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/2.self.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.flex shrink"
+              "title": "2.self"
             }
           }
         ]
@@ -183,13 +183,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a1d8a571d1b8a29e",
+  "active": "d1658df9a3e26cc7",
   "lastOpenFiles": [
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/2.flexgrow.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex/1.FLEXBOX.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/1.self aling e orde.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/2.self.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/3.order.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/0.flex.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/1.flexbasis.md",
-    "2.fronts/2-css/1.códigos/4.Model box/1.Tipos de Medidas/1.Porcentagem.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/3.flex shrink.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/2.flexgrow.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/4.aling content/1.align-content.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/3.aling itens/1.flex.md",
+    "2.fronts/2-css/1.códigos/4.Model box/1.Tipos de Medidas/1.Porcentagem.md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex/1.FLEXBOX.md",
     "2.fronts/1-html/1.códigos/9-Layout/0.layout.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/6.wrap/1.Wrap.md",
     "2.fronts/2-css/1.códigos/4.Model box/9.Position/0.Position.md",
@@ -200,22 +206,16 @@
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/1.reset.md",
     "2.fronts/2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/5.flex flow/1.flex flow.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/4.aling content/1.align-content.md",
     "2.fronts/1-html/1.códigos/12.formulário/5.visualização de Dados/3.METER/1.meter.md",
     "2.fronts/1-html/1.códigos/12.formulário/5.visualização de Dados/2.PROGRESS/1.progress.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/2.justify-content/1.flex.md",
     "2.fronts/2-css/1.códigos/5.display/1.display/1.display.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/1.flex-direction/1.flex.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex",
-    "2.fronts/2-css/1.códigos/5.display/4.inline-block/1.inline-bloco.md",
-    "2.fronts/2-css/1.códigos/5.display/3.bloco/1.bloco.md",
     "2.fronts/2-css/1.códigos/4.display/Sem título",
     "2.fronts/2-css/1.códigos/5.display/4.inline-block",
     "2.fronts/2-css/1.códigos/5.display/3.bloco",
     "2.fronts/2-css/1.códigos/5.display/2.inline",
-    "2.fronts/2-css/1.códigos/5.display/1.display",
-    "2.fronts/2-css/1.códigos/4.Model box/10.Z index/Z index.md",
-    "2.fronts/2-css/1.códigos/4.Model box/9.Position/5.sticky.md",
-    "2.fronts/2-css/1.códigos/4.Model box/9.Position/4.fixed.md"
+    "2.fronts/2-css/1.códigos/5.display/1.display"
   ]
 }
