@@ -5,12 +5,14 @@ main {
   margin: 2% auto;
   box-sizing: border-box;
   outline: 2px solid lime;
+  display: flex;
+  gap: 10%;
 }
 .div1 {
-  background-color: white;
-  height: 150px;
+  background-color: rgb(145, 255, 0);
   width: 100%;
   box-sizing: border-box;
+  order: 3;
 }
 
 .div2 {
@@ -18,11 +20,13 @@ main {
   height: 150px;
   width: 100%;
   box-sizing: border-box;
+  align-self: flex-end;
+  order: 2;
 }
 
 .div3 {
   background-color: rgb(1, 196, 255);
-  height: 150px;
   width: 100%;
   box-sizing: border-box;
+  order: 0;
 }
