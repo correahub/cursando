@@ -1,4 +1,4 @@
-# id é um identificador único que permite selecionar um único elemento específico no HTML.
+# id é um identificador que aponta para um único elemento HTML.
 
 ---
 
