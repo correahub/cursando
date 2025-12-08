@@ -1,32 +1,52 @@
 main {
   background-color: black;
+  color: white;
   width: 80%;
   height: 500px;
   margin: 2% auto;
   box-sizing: border-box;
   outline: 2px solid lime;
-  display: flex;
-  gap: 10%;
-}
-.div1 {
-  background-color: rgb(145, 255, 0);
-  width: 100%;
   box-sizing: border-box;
-  order: 3;
 }
 
-.div2 {
-  background-color: rgb(255, 1, 1);
-  height: 150px;
-  width: 100%;
+input[type="text"] {
+  outline: none;
   box-sizing: border-box;
-  align-self: flex-end;
-  order: 2;
 }
 
-.div3 {
-  background-color: rgb(1, 196, 255);
-  width: 100%;
+input[type="text"]:focus {
+  background-color: red;
+}
+
+input[type="text"]:focus:valid {
   box-sizing: border-box;
-  order: 0;
+}
+
+input[type="text"]:hover {
+  color: yellow;
+  background-color: black;
+  outline: 2px solid yellow;
+}
+
+button[type="submit"]:active {
+  background-color: lime;
+  color: black;
+  font-weight: 900;
+  box-sizing: border-box;
+}
+
+.lol {
+  background-color: rgb(63, 60, 60);
+}
+
+p:first-child {
+  background-color: red;
+}
+
+p:nth-child(3n-1) {
+  background-color: orange;
+}
+
+p:last-child {
+  background-color: lime;
 }
