@@ -9,6 +9,14 @@ main {
   box-sizing: border-box;
 }
 
+.l1:has(input[type="checkbox"]:enabled:checked) {
+  background-color: red;
+}
+
+.l2:has(input[type="checkbox"]:disabled:read-only) {
+  background-color: rgb(39, 170, 22);
+}
+
 input[type="text"] {
   outline: none;
   box-sizing: border-box;
