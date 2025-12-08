@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "748fb7d14b02dca3",
+        "id": "1b150b32bc5a289e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b11690b09a5dad2",
+            "id": "c02ac4e21a96c413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/8.nth-child.md",
+                "file": "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/16.empy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.nth-child"
+              "title": "16.empy"
             }
           }
         ]
@@ -183,17 +183,25 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "1b11690b09a5dad2",
+  "active": "c02ac4e21a96c413",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/15.placeholder shown.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/14.popove-open.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/13.has.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/12.read-write.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/11.disable.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/10.enabled.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/9.checked.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/8.nth-child.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/9.target.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/7.not().md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/6.first-child e last-child.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/8.nth-child.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/4.active.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/0.pseudo-class.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/3.hover.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/2.2.invalid.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/2.1valida.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/1.focus.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/2.2.invalid.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/3.hover.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/0.pseudo-class.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/9.gap/1.gap.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/2.order.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex/1.FLEXBOX.md",
@@ -205,14 +213,6 @@
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/1.id",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/2.class",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/Sem título.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/1.self.md",
-    "2.fronts/2-css/1.códigos/4.Model box/2.width-height/1.width/1.width.md",
-    "2.fronts/1-html/1.códigos/9-Layout/0.layout.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/8.self aling e orde/1.self aling e orde.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/0.flex.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/1.flexbasis.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/3.flex shrink.md",
-    "2.fronts/2-css/1.códigos/5.display/5.Flex/7.flex/2.flexgrow.md",
     "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex",
     "2.fronts/2-css/1.códigos/4.display/Sem título",
     "2.fronts/2-css/1.códigos/5.display/4.inline-block",
