@@ -8,6 +8,35 @@ main {
   outline: 2px solid lime;
   box-sizing: border-box;
 }
+.pop::backdrop{
+  background-color: lime;
+}
+
+.plax:placeholder-shown{
+  background-color: rgb(156, 22, 22);
+  border: 0;
+  outline: 2px solid yellow;
+}
+.plax::placeholder{
+  color: red;
+  font-size: 16px;
+}
+.ele {
+  background-color: lime;
+  padding: 10px;
+  border: 2px solid black;
+  width: fit-content;
+  margin: auto;
+}
+
+.ele::after{
+  content: "Olá?";
+}
+.ele::before{
+  content: "Olá!";
+}
+
+
 
 .l1:has(input[type="checkbox"]:enabled:checked) {
   background-color: red;
@@ -22,19 +51,11 @@ input[type="text"] {
   box-sizing: border-box;
 }
 
-input[type="text"]:focus {
-  background-color: red;
-}
 
 input[type="text"]:focus:valid {
   box-sizing: border-box;
 }
 
-input[type="text"]:hover {
-  color: yellow;
-  background-color: black;
-  outline: 2px solid yellow;
-}
 
 button[type="submit"]:active {
   background-color: lime;
@@ -45,10 +66,6 @@ button[type="submit"]:active {
 
 .lol {
   background-color: rgb(63, 60, 60);
-}
-
-p:first-child {
-  background-color: red;
 }
 
 p:nth-child(3n-1) {
