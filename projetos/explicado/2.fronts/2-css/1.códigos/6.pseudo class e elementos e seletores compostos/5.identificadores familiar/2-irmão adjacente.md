@@ -1,4 +1,6 @@
-Ótimo! Agora vamos aprender o seletor **irmão adjacente** com esse exemplo:
+# **+** é um identificador familiar que identifica **todos os irmãos secundários que vem logo depois do filho direto. 
+
+
 
 ```css
 main h3 + p {
