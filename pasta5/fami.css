@@ -1,0 +1,28 @@
+.div1 {
+  width: 80%;
+  height: 500px;
+  margin: auto;
+  box-sizing: border-box;
+  outline: 2px solid lime;
+  background-color: black;
+}
+
+p {
+  color: white;
+}
+
+.div1 > p {
+  background-color: aqua;
+}
+
+.div2{
+    width: 80%;
+    height: 250px;
+    margin: auto;
+    background-color: grey;
+    box-sizing: border-box;
+}
+
+.div2 > p + p {
+    background-color: yellow;
+}
