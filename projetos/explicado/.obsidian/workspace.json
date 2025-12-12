@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "938fa72b67b68a49",
+        "id": "34f4686b399dddda",
         "type": "tabs",
         "children": [
           {
-            "id": "df53c3e95bb11eb3",
+            "id": "0afa30ed451ccad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/2-css/1.códigos/8.animations/3.opacity/1.opacity.md",
+                "file": "2.fronts/2-css/1.códigos/8.animations/1.transitions/5.transition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.opacity"
+              "title": "5.transition"
             }
           }
         ]
@@ -183,10 +183,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "df53c3e95bb11eb3",
+  "active": "0afa30ed451ccad9",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/8.animations/1.transitions/4.transition-delay.md",
+    "2.fronts/2-css/1.códigos/8.animations/1.transitions/5.transition.md",
+    "2.fronts/2-css/1.códigos/8.animations/1.transitions/3.transition-timing-function.md",
+    "2.fronts/2-css/1.códigos/8.animations/1.transitions/2.transition-duration.md",
+    "2.fronts/2-css/1.códigos/8.animations/1.transitions/1.transition-property.md",
     "2.fronts/2-css/1.códigos/8.animations/1.transitions/1.PTTA.md",
     "2.fronts/2-css/1.códigos/8.animations/1.transitions/2.explicação.md",
+    "2.fronts/2-css/1.códigos/7.overflow/1.Overflow.md",
+    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/7.not().md",
+    "2.fronts/2-css/1.códigos/5.display/5.Flex/0.flex/1.FLEXBOX.md",
+    "2.fronts/2-css/1.códigos/8.animations/3.opacity/1.opacity.md",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/4.scale/1.scale.md",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/5.skew/1.skew.md",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/3.rotate/1.rotate.md",
@@ -196,7 +205,6 @@
     "2.fronts/2-css/1.códigos/8.animations/1.transformes/4",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/0.O que é transform/0.O que é.md",
     "2.fronts/2-css/1.códigos/7.overflow/6. x e y.md",
-    "2.fronts/2-css/1.códigos/7.overflow/1.Overflow.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/5.identificadores familiar/3.filhos posteriores.md",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/5.skew",
     "2.fronts/2-css/1.códigos/8.animations/2.transformes/4.scale",
@@ -210,14 +218,6 @@
     "2.fronts/2-css/1.códigos/7.overflow/2.webkit-scrollbar.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/5.identificadores familiar/4.descendente.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/5.identificadores familiar/1.filho direto.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/5.identificadores familiar/0.O que é.md",
-    "2.fronts/2-css/1.códigos/10.acent color/1.accent-color.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/2.atributo.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/1.identificadores Oque é.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/6. valor asterisco.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/5.valor s cifrão.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/3.valor.md",
-    "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo/4.valor circunflexo.md",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/6.indentificador por atributo",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/3.pseudo classe/Sem título",
     "2.fronts/2-css/1.códigos/6.pseudo class e elementos e seletores compostos/1.id"
