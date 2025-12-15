@@ -1,23 +1,7 @@
-.div1 {
-  width: 80%;
-  height: 500px;
-  box-sizing: border-box;
-  margin: 2% auto;
-  background-color: black;
-  border: 2px solid lime;
-  overflow: hidden;
-}
-.div2 {
-  width: 50%;
-  height: 50%;
-  background-color: gray;
-  box-sizing: border-box;
-  border: 2px solid red;
-  max-width: 100%;
-  max-height: 100%;
-  margin: 8% auto;
+p{
+  background-color: red;
 }
 
-.div2 > input[type="text"] {
-  cursor: not-allowed;
+p{
+  background-color: black;
 }
