@@ -1,7 +1,18 @@
-p{
-  background-color: red;
-}
-
-p{
+.pedrin {
   background-color: black;
+  width: 500px;
+  padding: 10px;
+  margin: auto;
+  cursor: pointer;
+  height: 500px;
+  box-sizing: border-box;
+
+  &:hover {
+    outline: 2px solid lime;
+  }
+
+  .tan {
+    background-color: yellow;
+    color: initial;
+  }
 }
