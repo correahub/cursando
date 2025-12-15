@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40b62833e2cff80d",
+        "id": "9416052ac0a5925b",
         "type": "tabs",
         "children": [
           {
-            "id": "12db79121fdabe3d",
+            "id": "8b95c80cb75f6d5a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "12db79121fdabe3d",
+  "active": "9d68e31116c8b7b7",
   "lastOpenFiles": [
+    "2.fronts/1-html/1.códigos/1.reset e normalize/1.reset.md",
+    "2.fronts/1-html/1.códigos/1.reset e normalize/2.normalize.md",
     "2.fronts/2-css/1.códigos/5.Model box/0.nesting()/1.O que é.md",
     "2.fronts/2-css/1.códigos/5.Model box/0.nesting()",
     "2.fronts/2-css/0.anihamento",
@@ -204,9 +206,7 @@
     "2.fronts/2-css/1.códigos/9.cursor/2.point evente/1.pointer-events.md",
     "2.fronts/2-css/1.códigos/9.cursor/1.cursor/1.cursor.md",
     "2.fronts/1-html/1.códigos/0.O que é/1.HTML.md",
-    "2.fronts/1-html/1.códigos/1.reset e normalize/2.normalize.md",
     "2.fronts/1-html/1.códigos/0.O que é",
-    "2.fronts/1-html/1.códigos/1.reset e normalize/1.reset.md",
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/1.meta author.md",
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/2.meta description.md",
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/0.TPVC.md",
