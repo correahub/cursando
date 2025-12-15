@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05c1c26b47c65e9d",
+        "id": "40b62833e2cff80d",
         "type": "tabs",
         "children": [
           {
-            "id": "42a3d9d3eced020f",
+            "id": "12db79121fdabe3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "42a3d9d3eced020f",
+  "active": "12db79121fdabe3d",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/5.Model box/0.nesting()/1.O que é.md",
+    "2.fronts/2-css/1.códigos/5.Model box/0.nesting()",
+    "2.fronts/2-css/0.anihamento",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.Especificidades.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.nivels.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade",
@@ -211,11 +214,8 @@
     "2.fronts/2-css/1.códigos/0.root e anatomia/5.nesting/1.nesting.md",
     "2.fronts/2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
     "2.fronts/2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
-    "2.fronts/2-css/1.códigos/9.animations/4.property/3.CSS Typed OM.md",
     "2.fronts/2-css/1.códigos/9.animations/0.Invisivel",
     "2.fronts/2-css/1.códigos/6.display/1.none",
-    "2.fronts/2-css/1.códigos/10.animations/2.transformes/5.transform-origin",
-    "2.fronts/2-css/1.códigos/8.animations/1.transformes/4",
-    "2.fronts/2-css/1.códigos/10.animations/2.transformes/4.skew"
+    "2.fronts/2-css/1.códigos/10.animations/2.transformes/5.transform-origin"
   ]
 }
