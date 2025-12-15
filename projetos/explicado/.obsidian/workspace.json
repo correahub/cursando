@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "227b98d33c15c8ad",
+        "id": "05c1c26b47c65e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa19b3300b3e016d",
+            "id": "42a3d9d3eced020f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,14 +179,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fa19b3300b3e016d",
+  "active": "42a3d9d3eced020f",
   "lastOpenFiles": [
-    "2.fronts/2-css/1.códigos/0. O que é/1.CSS.md",
-    "2.fronts/2-css/1.códigos/4.herança/1.initial.md",
-    "2.fronts/0.Estruturas/1.login simples/1.Login.md",
-    "2.fronts/2-css/1.códigos/4.herança/2.inherit.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.Especificidades.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.nivels.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade",
     "2.fronts/2-css/1.códigos/4.herança/3.unset.md",
+    "2.fronts/2-css/1.códigos/4.herança/2.inherit.md",
+    "2.fronts/2-css/1.códigos/4.herança/1.initial.md",
     "2.fronts/2-css/1.códigos/4.herança/4.revert.md",
+    "2.fronts/2-css/1.códigos/0. O que é/1.CSS.md",
+    "2.fronts/0.Estruturas/1.login simples/1.Login.md",
     "2.fronts/2-css/1.códigos/3.text/8.0text-shadow.md",
     "2.fronts/2-css/1.códigos/4.herança",
     "2.fronts/2-css/1.códigos/3.text/Sem título",
@@ -209,13 +212,10 @@
     "2.fronts/2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
     "2.fronts/2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2.fronts/2-css/1.códigos/9.animations/4.property/3.CSS Typed OM.md",
-    "2.fronts/2-css/1.códigos/9.animations/0.Invisivel/1.deixando tag.md",
-    "2.fronts/2-css/1.códigos/10.animations/1.transitions/3.transition-timing-function.md",
     "2.fronts/2-css/1.códigos/9.animations/0.Invisivel",
     "2.fronts/2-css/1.códigos/6.display/1.none",
     "2.fronts/2-css/1.códigos/10.animations/2.transformes/5.transform-origin",
     "2.fronts/2-css/1.códigos/8.animations/1.transformes/4",
-    "2.fronts/2-css/1.códigos/10.animations/2.transformes/4.skew",
-    "2.fronts/2-css/1.códigos/10.animations/2.transformes/3.scale"
+    "2.fronts/2-css/1.códigos/10.animations/2.transformes/4.skew"
   ]
 }
