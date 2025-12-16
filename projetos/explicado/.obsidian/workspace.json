@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9416052ac0a5925b",
+        "id": "aacb264f3adfbb2b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b95c80cb75f6d5a",
+            "id": "399cf193e5a1d8c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "position",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,21 +179,28 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9d68e31116c8b7b7",
+  "active": "399cf193e5a1d8c0",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/10.animations/1.transitions/3.transition-timing-function.md",
+    "2.fronts/2-css/1.códigos/9.cursor/2.point evente/1.pointer-events.md",
+    "2.fronts/2-css/1.códigos/9.cursor/1.cursor/1.cursor.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.nivels.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.Especificidades.md",
+    "2.fronts/2-css/1.códigos/5.Model box/0.nesting()/1.O que é.md",
+    "2.fronts/2-css/1.códigos/5.Model box/9.Position/0.Position.md",
+    "2.fronts/2-css/1.códigos/4.herança/1.initial.md",
+    "2.fronts/2-css/1.códigos/0. O que é/1.CSS.md",
+    "2.fronts/1-html/1.códigos/9-Layout/0.layout.md",
+    "2.fronts/1-html/1.códigos/7 - ul e ol e dl/3.list style.md",
+    "2.fronts/1-html/1.códigos/0.O que é/1.HTML.md",
     "2.fronts/1-html/1.códigos/1.reset e normalize/1.reset.md",
     "2.fronts/1-html/1.códigos/1.reset e normalize/2.normalize.md",
-    "2.fronts/2-css/1.códigos/5.Model box/0.nesting()/1.O que é.md",
     "2.fronts/2-css/1.códigos/5.Model box/0.nesting()",
     "2.fronts/2-css/0.anihamento",
-    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.Especificidades.md",
-    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade/1.nivels.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade",
     "2.fronts/2-css/1.códigos/4.herança/3.unset.md",
     "2.fronts/2-css/1.códigos/4.herança/2.inherit.md",
-    "2.fronts/2-css/1.códigos/4.herança/1.initial.md",
     "2.fronts/2-css/1.códigos/4.herança/4.revert.md",
-    "2.fronts/2-css/1.códigos/0. O que é/1.CSS.md",
     "2.fronts/0.Estruturas/1.login simples/1.Login.md",
     "2.fronts/2-css/1.códigos/3.text/8.0text-shadow.md",
     "2.fronts/2-css/1.códigos/4.herança",
@@ -203,17 +210,10 @@
     "2.fronts/2-css/1.códigos/9.animations/4.property/1.property.md",
     "2.fronts/2-css/1.códigos/9.animations/4.property/2propert nome varaive.md",
     "2.fronts/2-css/1.códigos/10.animations/3.opacity/1.opacity.md",
-    "2.fronts/2-css/1.códigos/9.cursor/2.point evente/1.pointer-events.md",
-    "2.fronts/2-css/1.códigos/9.cursor/1.cursor/1.cursor.md",
-    "2.fronts/1-html/1.códigos/0.O que é/1.HTML.md",
     "2.fronts/1-html/1.códigos/0.O que é",
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/1.meta author.md",
     "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/2.meta description.md",
-    "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/0.meta e normalize/0.TPVC.md",
     "2.fronts/2-css/1.códigos/0. O que é",
-    "2.fronts/2-css/1.códigos/0.root e anatomia/5.nesting/1.nesting.md",
-    "2.fronts/2-css/1.códigos/0.root e anatomia/2.Root(raiz variavel)/1.Variaveis em css.md",
-    "2.fronts/2-css/1.códigos/0.root e anatomia/0.dicas/dicas 1.md",
     "2.fronts/2-css/1.códigos/9.animations/0.Invisivel",
     "2.fronts/2-css/1.códigos/6.display/1.none",
     "2.fronts/2-css/1.códigos/10.animations/2.transformes/5.transform-origin"
