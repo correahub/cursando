@@ -13,6 +13,10 @@ html {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-color: #dbdbdb9d;
+}
+
 .header-hero {
   width: 90%;
   margin: auto;
