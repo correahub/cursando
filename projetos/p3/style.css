@@ -14,7 +14,7 @@ html {
 }
 
 .header-hero {
-  height: 50rem;
+  height: 49rem;
   background: url("imagens/bg-3.jpg") center right / cover no-repeat;
 
   .header-hero_nav_lista {
@@ -59,7 +59,8 @@ html {
     .header-hero_div_titulo {
       margin-top: 2rem;
       color: white;
-      font-size: 6.4rem;
+      font-size: 4.4rem;
+      text-shadow: 2px 2px 5px black;
     }
 
     .header-hero_div_paragrafo {
@@ -68,6 +69,43 @@ html {
       font-size: 2.4rem;
       color: white;
       border-bottom: 2px solid white;
+      text-shadow: 1px 1px 1px black;
+    }
+  }
+}
+
+.main-hero {
+  background-color: #cccccc;
+  padding-top: 1px;
+
+  .main-hero_article {
+    width: 80%;
+    margin: 2rem auto;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+
+    .main-hero_article_titulo {
+      background-color: #cccccc;
+      padding: 0.5rem;
+      margin: 0.5rem;
+      font-size: 3rem;
+    }
+
+    .main-hero_article_paragrafo {
+      font-size: 1.6rem;
+      line-height: 1.3;
+      & > abbr {
+        text-decoration: underline solid black;
+      }
+    }
+
+    .main-hero_article_link {
+      padding: 1rem;
+      font-size: 1.6rem;
+      background-color: #cbc5c5;
+      display: inline-block;
+      margin-top: 1rem;
     }
   }
 }
