@@ -2,10 +2,19 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
+*,
+*::after,
+*::before {
+  margin: 0px;
+  padding: 0px;
+}
+
 :root {
+  font-size: 62.5%;
+
   --background-header: #162028;
 
-  --Cordotextonomenu: #425564;
+  --Cordotextonomenu: #586c7c;
 
   --Cordostextos: #555;
 
@@ -14,4 +23,49 @@
   --Cordefundodofooter: #0b171f;
 
   --Cordetextodofooter: #6f8597;
+}
+
+.header-hero {
+  background-color: var(--background-header);
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  padding: 1rem;
+
+  .header-hero_section {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .header-hero_section_span {
+      font-size: 3.4rem;
+      padding: 1rem;
+      color: white;
+    }
+
+    .header-hero_section_lista {
+      list-style: none;
+      display: flex;
+      gap: 2rem;
+    }
+
+    .header-hero_section_lista_item > a {
+      font-size: 1.8rem;
+      padding: 2rem;
+      color: var(--Cordotextonomenu);
+      text-transform: uppercase;
+      letter-spacing: 0.2rem;
+      text-decoration: none;
+      border-radius: 0.5rem;
+      transition: color 0.3s ease, background-color 0.3s 0.1s;
+
+      &:hover {
+        --Cordetextodofooter: #a2b4c2;
+        --Cordefundodofooter: #1b3647;
+        color: var(--Cordetextodofooter);
+        background-color: var(--Cordefundodofooter);
+      }
+    }
+  }
 }
