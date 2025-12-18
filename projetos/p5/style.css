@@ -93,6 +93,16 @@ body {
     border-radius: 0.3rem;
     padding: 1rem;
     margin: 1rem;
+
+    &:hover{
+      outline: 2px solid white;
+    }
+
+    &:has(a[href="#"]:hover) {
+      outline: 0;
+      box-shadow: 3px 3px 5px 1px var(--cor-botao),
+        -1px -1px 5cap var(--cor-botao);
+    }
   }
 
   .main-hero-lista_card_div {
@@ -121,6 +131,7 @@ body {
     padding: 0.5rem;
     color: var(--cor-card-letra);
     width: 30rem;
+    text-transform: capitalize;
   }
 
   a {
@@ -134,6 +145,7 @@ body {
     font-size: 1.6rem;
     font-weight: bold;
     text-decoration: none;
+    text-transform: uppercase;
 
     &:hover {
       text-decoration: underline;
