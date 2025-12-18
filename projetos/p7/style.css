@@ -120,6 +120,7 @@ body {
 
   .main-hero_article_modelos_section1 {
     padding: 2rem;
+    margin-top: 3rem;
     .main-hero_article_modelos_lista {
       display: flex;
       gap: 2rem;
@@ -138,5 +139,48 @@ body {
       font-size: 1.7rem;
       color: var(--Cordostextos);
     }
+  }
+}
+
+.main-hero_modelos_section2 {
+  background: var(--Cordefundodoboxcomimagemdedetalhe)
+    url(imagens/bg_detalhe.png) bottom right / contain no-repeat;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  article {
+    width: 80%;
+    padding: 1rem;
+    margin: 2rem;
+
+    .main-hero_modelos_section2_titulo {
+      color: rgb(201, 200, 200);
+      font-size: 5.4rem;
+      width: 80%;
+      font-weight: 400;
+      padding: 2rem;
+    }
+
+    .main-hero_modelos_section2_paragrafo {
+      width: 60%;
+      padding: 2rem;
+      line-height: 2.5rem;
+      color: rgb(214, 212, 212);
+      font-size: 1.7rem;
+    }
+  }
+}
+
+.footer-hero {
+  padding: 1rem;
+  background-color: var(--Cordefundodofooter);
+  text-align: center;
+
+  .footer-hero_paragrafo {
+    color: var(--Cordetextodofooter);
+    font-size: 2rem;
+    padding: 2rem;
   }
 }
