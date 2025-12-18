@@ -25,6 +25,10 @@
   --Cordetextodofooter: #6f8597;
 }
 
+body {
+  height: 100vh;
+}
+
 .header-hero {
   background-color: var(--background-header);
   display: flex;
