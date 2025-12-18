@@ -11,10 +11,14 @@
             "id": "399cf193e5a1d8c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/2.escopo de váriaveis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "2.escopo de váriaveis"
             }
           }
         ]
@@ -181,6 +185,10 @@
   },
   "active": "399cf193e5a1d8c0",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/1. O que é.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/2.escopo de váriaveis.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis",
     "2.fronts/2-css/1.códigos/10.animations/1.transitions/3.transition-timing-function.md",
     "2.fronts/2-css/1.códigos/9.cursor/2.point evente/1.pointer-events.md",
     "2.fronts/2-css/1.códigos/9.cursor/1.cursor/1.cursor.md",
@@ -211,11 +219,7 @@
     "2.fronts/2-css/1.códigos/9.animations/4.property/2propert nome varaive.md",
     "2.fronts/2-css/1.códigos/10.animations/3.opacity/1.opacity.md",
     "2.fronts/1-html/1.códigos/0.O que é",
-    "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/1.meta author.md",
-    "2.fronts/1-html/1.códigos/0.Meta tag e anatomia/1.meta tag/2.meta description.md",
     "2.fronts/2-css/1.códigos/0. O que é",
-    "2.fronts/2-css/1.códigos/9.animations/0.Invisivel",
-    "2.fronts/2-css/1.códigos/6.display/1.none",
-    "2.fronts/2-css/1.códigos/10.animations/2.transformes/5.transform-origin"
+    "2.fronts/2-css/1.códigos/9.animations/0.Invisivel"
   ]
 }

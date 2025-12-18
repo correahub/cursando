@@ -26,6 +26,7 @@ h1 {
   font-size: 4.4rem;
   text-transform: uppercase;
   text-shadow: 1px 1px 1px black;
+  margin: 1rem;
 }
 div {
   display: flex;
@@ -43,9 +44,8 @@ div {
 }
 
 main {
-  background-color: white;
-  width: 98rem;
-  height: 39rem;
+  width: 97rem;
+  height: 38rem;
   display: flex;
   justify-content: center;
   align-items: center;
