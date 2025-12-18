@@ -12,6 +12,8 @@
 :root {
   font-size: 62.5%;
 
+  font-family: "Roboto";
+
   --background-header: #162028;
 
   --Cordotextonomenu: #586c7c;
@@ -35,6 +37,10 @@ body {
   justify-content: center;
   align-self: center;
   padding: 1rem;
+
+  width: 100%;
+  position: fixed;
+  top: 0px;
 
   .header-hero_section {
     width: 80%;
@@ -70,6 +76,67 @@ body {
         color: var(--Cordetextodofooter);
         background-color: var(--Cordefundodofooter);
       }
+    }
+  }
+}
+.main-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-hero_article {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .main-hero_article_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 2rem;
+    padding: 1rem;
+
+    .main-hero_article_titulo-principal {
+      font-weight: 400;
+      padding: 1rem;
+      margin: 1rem;
+      font-size: 4.4rem;
+      color: var(--Cordostextos);
+    }
+
+    .main-hero_article_paragrafo {
+      font-size: 1.7rem;
+      text-align: center;
+      line-height: 2.5rem;
+      color: var(--Cordostextos);
+      width: 80%;
+    }
+  }
+
+  .main-hero_article_modelos_section1 {
+    padding: 2rem;
+    .main-hero_article_modelos_lista {
+      display: flex;
+      gap: 2rem;
+      list-style: none;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 2rem;
+      padding: 1rem;
+      color: var(--Cordostextos);
+    }
+
+    p {
+      padding: 1rem;
+      font-size: 1.7rem;
+      color: var(--Cordostextos);
     }
   }
 }
