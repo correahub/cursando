@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --background-header: #162028;
+
+  --Cordotextonomenu: #425564;
+
+  --Cordostextos: #555;
+
+  --Cordefundodoboxcomimagemdedetalhe: #003d52;
+
+  --Cordefundodofooter: #0b171f;
+
+  --Cordetextodofooter: #6f8597;
+}
