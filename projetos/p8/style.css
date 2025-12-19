@@ -17,6 +17,7 @@
   --cor-fundo-botao: #fed001;
   --cor-letra-botao: #060200;
   --cor-fundo-escola: #003463;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 html {
@@ -58,6 +59,61 @@ html {
       background-color: var(--cor-fundo-botao);
       color: var(--cor-letra-botao);
       transform: scale(0.9);
+    }
+  }
+}
+
+.main-hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-hero_section1 {
+  width: 100%;
+  background-image: linear-gradient(to bottom, var(--linear-gradiante));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .main-hero_section1_div-titulo {
+    width: 80%;
+    display: flex;
+
+    img {
+      width: 50%;
+    }
+
+    div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+  .main-hero_section1_div-titulo_titulo {
+    font-size: 5.4rem;
+    text-transform: capitalize;
+    margin: 2rem;
+  }
+
+  .main-hero_section1_div-titulo_botao {
+    font-size: 1.7rem;
+    padding: 2rem 5rem;
+    margin: 2rem;
+    color: var(--cor-letra-botao);
+    background-color: var(--cor-fundo-botao);
+    width: fit-content;
+    font-weight: bold;
+    text-decoration: none;
+
+    transition: underline 0.2s ease 0.2s, outline 0s ease 0.1s;
+
+    &:hover{
+
+      text-decoration: underline;
+      outline: 2px solid black;
     }
   }
 }
