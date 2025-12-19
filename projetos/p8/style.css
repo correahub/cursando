@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/* *,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} */
+
+:root {
+  --fundo-header: #2a2a2a;
+  --color-letra-linknav: #fdfe5e;
+  --color-fundo-linknav: #2a2a2a;
+  --linear-gradiante: #fefefc, #feffc5, #feff91, #fefe6c, #fffe5a, #ffff40;
+  --cor-fundo-titulo: #060200;
+  --cor-fundo-botao: #feffc5;
+  --cor-letra-botao: #060200;
+  --cor-fundo-escola: #003463;
+}
