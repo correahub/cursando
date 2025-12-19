@@ -140,11 +140,11 @@ html {
     display: flex;
     flex-direction: column;
     flex: 1;
-    transition: all 0.2s ease 0.1s;
+    transition: all 0.2s ease 0.1s, outline 0.1s ease 0.2s;
     cursor: pointer;
 
     &:hover {
-      outline: 2px solid black;
+      box-shadow: 1px 1px 10px 2px black;
       border-radius: 1rem 1rem 0rem 0rem;
       transform: scale(0.95);
     }
