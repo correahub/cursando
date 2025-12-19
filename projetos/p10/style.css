@@ -12,7 +12,7 @@
   --cor-fundo: #171717;
   --cor-fundo-formulario: #0d100f;
   --cor-label: white;
-  --cor-fundo-input:#0A0A0A;
+  --cor-fundo-input: #0a0a0a;
   --cor-placehold: #4d4d4d;
   --cor-focado-fundo-place: #292728;
   --cor-valid: lime;
@@ -24,4 +24,116 @@
 html {
   font-size: 62.5%;
   height: 100vh;
+}
+
+main {
+  height: 100vh;
+  background-color: var(--cor-fundo);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  form {
+    background-color: var(--cor-fundo-formulario);
+    color: white;
+    padding: 0.5rem;
+    width: 70%;
+
+    fieldset {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      padding: 0.5rem;
+      border: 0;
+
+      legend {
+        font-size: 3.3rem;
+        text-align: center;
+      }
+
+      label {
+        font-size: 1.6rem;
+        padding: 1rem 0rem;
+
+        input[type] {
+          display: block;
+          padding: 0.5rem;
+          width: 100%;
+          margin-top: 0.5rem;
+          background-color: var(--cor-fundo-input);
+          border-top: 0;
+          border-left: 0;
+          border-right: 0;
+          border-bottom: 2px solid white;
+          color: white;
+          outline: 0;
+          text-transform: capitalize;
+          transition: all 0.3s ease 0.1s;
+
+          &:focus {
+            background-color: var(--cor-focado-fundo-place);
+          }
+
+          &:focus:invalid {
+            border-color: var(--cor-invalid);
+          }
+
+          &:focus:valid,
+          &:valid {
+            border-color: lime;
+            background-color: var(--cor-focado-fundo-place);
+          }
+        }
+      }
+
+      textarea {
+        background-color: var(--cor-fundo-input);
+        resize: none;
+        font-size: 1.6rem;
+        outline: 0;
+        border-top: 0;
+        border-left: 0;
+        border-right: 0;
+        border-bottom: 2px solid white;
+        color: white;
+        padding: 0.5rem;
+
+        transition: all 0.3s ease 0.1s;
+
+        &:focus {
+          background-color: var(--cor-focado-fundo-place);
+        }
+
+        &:focus:invalid {
+          border-color: var(--cor-invalid);
+        }
+
+        &:focus:valid,
+        &:valid {
+          border-color: var(--cor-valid);
+          background-color: var(--cor-focado-fundo-place);
+        }
+      }
+
+      div {
+        display: flex;
+        justify-content: flex-end;
+      }
+      div > button {
+        font-size: 1.7rem;
+        padding: 1rem;
+        margin-top: 1rem;
+        background-color: var(--cor-fundo-botao);
+        border-color: transparent;
+        color: white;
+        letter-spacing: 0.2rem;
+        cursor: pointer;
+
+        &:hover {
+          transform: scale(0.9);
+          outline: 1px solid white;
+        }
+      }
+    }
+  }
 }
