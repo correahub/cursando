@@ -29,6 +29,9 @@ html {
   display: flex;
   justify-content: center;
   padding: 2rem;
+
+  position: sticky;
+  top: 0;
 }
 
 .header-hero_section {
@@ -233,5 +236,26 @@ html {
         line-height: 2.4rem;
       }
     }
+  }
+}
+
+.main-hero_section4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  .main-hero_section4_titulo {
+    font-size: 3.4rem;
+    padding: 2rem;
+    margin: 2rem;
+  }
+  .iz {
+    width: 80%;
+  }
+  .main-hero_section4_informacao-contato{
+    display: flex;
+    gap: 1rem;
+    padding: 2rem;
   }
 }
