@@ -29,9 +29,6 @@ html {
   display: flex;
   justify-content: center;
   padding: 2rem;
-
-  position: sticky;
-  top: 0;
 }
 
 .header-hero_section {
@@ -257,5 +254,16 @@ html {
     display: flex;
     gap: 1rem;
     padding: 2rem;
+  }
+}
+
+.footer-hero{
+  padding: 2rem;
+  background-color: var(--fundo-header);
+  color: white;
+  text-align: center;
+
+  .footer-hero_paragrafo{
+    font-size: 1.7rem;
   }
 }
