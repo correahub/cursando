@@ -27,7 +27,7 @@ html {
   background-color: var(--fundo-header);
   display: flex;
   justify-content: center;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .header-hero_section {
@@ -50,12 +50,14 @@ html {
     letter-spacing: 0.2rem;
     border: 0.1rem solid var(--cor-fundo-botao);
     padding: 1rem;
+    display: inline-block;
 
     transition: all 0.3s ease 0.1s;
 
     &:hover {
       background-color: var(--cor-fundo-botao);
       color: var(--cor-letra-botao);
+      transform: scale(0.9);
     }
   }
 }
