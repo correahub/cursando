@@ -1,20 +1,61 @@
 @charset "UTF-8";
 
-/* *,
+*,
 *::after,
 *::before {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-} */
+}
 
 :root {
   --fundo-header: #2a2a2a;
-  --color-letra-linknav: #fdfe5e;
+  --color-letra-linknav: #fed001;
   --color-fundo-linknav: #2a2a2a;
   --linear-gradiante: #fefefc, #feffc5, #feff91, #fefe6c, #fffe5a, #ffff40;
   --cor-fundo-titulo: #060200;
-  --cor-fundo-botao: #feffc5;
+  --cor-fundo-botao: #fed001;
   --cor-letra-botao: #060200;
   --cor-fundo-escola: #003463;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.header-hero {
+  background-color: var(--fundo-header);
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.header-hero_section {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-hero_section_navegation_list {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+
+  .header-hero_section_navegation_list_item > a {
+    font-size: 1.8rem;
+    color: var(--color-letra-linknav);
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.2rem;
+    border: 0.1rem solid var(--cor-fundo-botao);
+    padding: 1rem;
+
+    transition: all 0.3s ease 0.1s;
+
+    &:hover {
+      background-color: var(--cor-fundo-botao);
+      color: var(--cor-letra-botao);
+    }
+  }
 }
