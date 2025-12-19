@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --cor-fundo: #171717;
+  --cor-fundo-formulario: #0d100f;
+  --cor-label: white;
+  --cor-fundo-input:#0A0A0A;
+  --cor-placehold: #4d4d4d;
+  --cor-focado-fundo-place: #292728;
+  --cor-valid: lime;
+  --cor-invalid: red;
+  --cor-normal: white;
+  --cor-fundo-botao: #292728;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100vh;
+}

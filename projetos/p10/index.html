@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Exercício</title>
+  </head>
+  <body>
+    <main>
+      <form
+        action="#"
+        method="get"
+        enctype="application/x-www-form-urlencoded"
+        autocomplete="on"
+      >
+        <fieldset>
+          <legend>Formulário de Contato</legend>
+          <label>
+            Nome
+            <input type="text" name="nome" placeholder="Seu Nome" required />
+          </label>
+          <label>
+            Email
+            <input type="email" name="nome" placeholder="Seu Email" required />
+          </label>
+          <label>
+            Assunto
+            <input
+              type="text"
+              name="assunto"
+              placeholder="Assunto da Menssagem"
+              required
+              minlength="50"
+              max="100"
+            />
+          </label>
+          <label for="menssagem"> Menssagem </label>
+          <textarea
+            name="menssagem"
+            id="menssagem"
+            required
+            placeholder="Insira a sua menssagem...."
+            maxlength="1000"
+            minlength="150"
+          ></textarea>
+        </fieldset>
+      </form>
+    </main>
+  </body>
+</html>
