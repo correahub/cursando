@@ -1,28 +1,43 @@
-@charset "UTF8";
+@charset "UTF-8";
 
-div {
-  width: 500px;
-  height: 500px;
-  margin: 2% auto;
-  background-color: black;
-  border: 2px solid lime;
-  padding: 0;
-  text-align: center;
-  position: relative;
+a[target="_blank"] {
+  &::after {
+    content: url("imagens/newWindow-icon.png");
+    margin-left: 1rem;
+  }
 }
 
+a[href="qq.pdf"] {
+  &::before {
+    content: url(imagens/pdf-icon.gif);
+    margin-right: 1rem;
+  }
+}
 
+input[type="checkbox"]{
+    cursor: pointer;
+}
+input[type="checkbox"]:checked + label[for="chk1"] {
+  color: lime;
+  background-color: black;
+}
 
-div::before {
-  content: "";
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  border: 2px solid rgb(0, 174, 255);
-  position: absolute;
-  top: 0;
-  left: 0;
-  border-top-color: transparent;
-  border-left-color: transparent;
-  background-color: rgb(141, 47, 47);
+input[type="checkbox"]:not(:checked) + label[for="chk1"] {
+  color: red;
+  background-color: black;
+}
+
+input[name="chk2"]:disabled + label[for="chk2"] {
+  background-color: black;
+  color: aqua;
+}
+
+ol > li:nth-of-type(3) > ol > li:nth-of-type(3) {
+  color: red;
+  background-color: lime;
+}
+
+ol > li:nth-child(3) > ol > li:nth-child(4) > ul > li:nth-of-type(3) {
+  color: red;
+  background-color: lime;
 }
