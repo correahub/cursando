@@ -9,7 +9,77 @@
 }
 
 :root {
-  --fundo-body-main: #3b68b7;
+  --fundo-body: #3b68b7;
+  --fundo-main: #ffffff;
   --fundo-linear-form: to right, #2a487f 0%, #2a487f 5%, white;
-  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body,
+html {
+  height: 100vh;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--fundo-body);
+}
+
+.main-hero {
+  background-color: #ffffff;
+  width: 40%;
+
+  .main-hero_formulario {
+    padding: 1rem;
+  }
+
+  .main-hero_formulario_informações {
+    border-color: transparent;
+
+    legend {
+      font-size: 3.4rem;
+      color: var(--fundo-body);
+    }
+
+    section {
+      display: flex;
+      flex-direction: column;
+
+      .main-hero_formulario_informações_label {
+        font-size: 1.4rem;
+        text-transform: uppercase;
+        padding: 0.8rem 0rem;
+        color: rgba(0, 0, 0, 0.623);
+      }
+
+      .main-hero_formulario_informações_input {
+        padding: 1rem 0.5rem;
+        border-color: transparent;
+        --corz: #3b68b79d;
+        border-bottom: 2px solid var(--corz);
+        outline-color: var(--corz);
+        transition: padding-left 0.3s ease 0.1s;
+
+        &:focus {
+          padding-left: 1rem;
+          background-color: rgb(209, 209, 209);
+        }
+
+        &:focus:valid {
+          outline-color: rgba(0, 255, 0, 0.432);
+        }
+        &:focus:valid,
+        &:valid {
+          border-bottom-color: rgba(0, 255, 0, 0.432);
+          background-color: rgb(209, 209, 209);
+        }
+      }
+    }
+  }
 }
