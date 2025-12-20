@@ -16,7 +16,7 @@
         autocomplete="on"
       >
         <fieldset class="main-hero_formulario_informações">
-          <legend>Cadastre-se</legend>
+          <legend>Login</legend>
           <section>
             <label
               class="main-hero_formulario_informações_label"
@@ -33,16 +33,7 @@
               maxlength="10"
               minlength="5"
             />
-            <label class="main-hero_formulario_informações_label" for="email">
-              Email
-            </label>
-            <input
-              class="main-hero_formulario_informações_input"
-              type="email"
-              id="email"
-              name="email"
-              required
-            />
+
             <label class="main-hero_formulario_informações_label" for="senha">
               Senha
             </label>
@@ -59,13 +50,22 @@
         </fieldset>
 
         <section class="main-hero_formulario_section-button">
-          <button
-            class="main-hero_formulario_section-button_enviar"
-            type="submit">
-            Cadastre-se
-          </button>
+          <div>
+            <button
+              class="main-hero_formulario_section-button_enviar"
+              type="submit"
+            >
+              Login
+            </button>
+            <a
+              class="main-hero_formulario_section-button_enviar"
+              href="/index.html"
+              >Cadastre-se</a
+            >
+          </div>
+
           <p class="main-hero_formulario_section-button_login">
-            <span>Já possui cadastro?</span> <a href="login/login.html">Faça Login</a>
+            <a href="@">Esqueceu a senha?</a>
           </p>
         </section>
       </form>
