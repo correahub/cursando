@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --fundo-body-main: #3b68b7;
+  --fundo-linear-form: to right, #2a487f 0%, #2a487f 5%, white;
+  
+}

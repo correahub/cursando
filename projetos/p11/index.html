@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>exercício</title>
+  </head>
+  <body>
+    <main class="main-hero">
+      <form
+        class="main-hero_formulario"
+        action="@"
+        method="get"
+        enctype="application/x-www-form-urlencoded"
+        autocomplete="on"
+      >
+        <fieldset class="main-hero_formulario_informações">
+          <legend>Cadastre-se</legend>
+
+          <label class="main-hero_formulario_informações_label" for="username">
+            Usuário
+          </label>
+          <input
+            class="main-hero_formulario_informações_input"
+            id="username"
+            name="username"
+            type="text"
+            required
+            maxlength="10"
+            minlength="5"
+            placeholder="Seu Login"
+          />
+
+          <label class="main-hero_formulario_informações_label" for="email">
+            Email
+          </label>
+          <input
+            class="main-hero_formulario_informações_input"
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Seu Email"
+            required
+          />
+
+          <label class="main-hero_formulario_informações_label" for="senha">
+            Senha
+          </label>
+          <input
+            class="main-hero_formulario_informações_input"
+            type="password"
+            id="senha"
+            name="senha"
+            placeholder="Sua senha"
+            required
+            maxlength="10"
+            min="5"
+          />
+        </fieldset>
+
+        <section class="main-hero_formulario_section-button">
+          <button
+            class="main-hero_formulario_section-button_enviar"
+            type="submit">
+            Cadastre-se
+          </button>
+          <p class="main-hero_formulario_section-button_login">
+            Já possui cadastro? <a href="@">Faça Login</a>
+          </p>
+        </section>
+      </form>
+    </main>
+  </body>
+</html>
