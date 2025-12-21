@@ -1,43 +1,29 @@
-@charset "UTF-8";
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 10% auto;
+  text-align: center;
 
-a[target="_blank"] {
-  &::after {
-    content: url("imagens/newWindow-icon.png");
-    margin-left: 1rem;
+  tbody {
+    tr:nth-of-type(2n + 1) {
+      background-color: rgb(171, 184, 189);
+    }
+    tr:nth-of-type(even) {
+      background-color: rgb(138, 197, 138);
+    }
+    tr:has(td:first-child > input[type="checkbox"]:checked) {
+      background-color: black;
+      color: yellow;
+      cursor: pointer;
+    }
   }
-}
-
-a[href="qq.pdf"] {
-  &::before {
-    content: url(imagens/pdf-icon.gif);
-    margin-right: 1rem;
+  th {
+    padding: 1rem;
+    border: 2px solid black;
   }
-}
-
-input[type="checkbox"]{
-    cursor: pointer;
-}
-input[type="checkbox"]:checked + label[for="chk1"] {
-  color: lime;
-  background-color: black;
-}
-
-input[type="checkbox"]:not(:checked) + label[for="chk1"] {
-  color: red;
-  background-color: black;
-}
-
-input[name="chk2"]:disabled + label[for="chk2"] {
-  background-color: black;
-  color: aqua;
-}
-
-ol > li:nth-of-type(3) > ol > li:nth-of-type(3) {
-  color: red;
-  background-color: lime;
-}
-
-ol > li:nth-child(3) > ol > li:nth-child(4) > ul > li:nth-of-type(3) {
-  color: red;
-  background-color: lime;
+  td {
+    border: 2px solid black;
+    padding: 1rem;
+    width: 40%;
+  }
 }
