@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c338801e6e395b39",
+        "id": "9f5445faa99d1ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "a20ba2ef21c074d2",
+            "id": "61faf78878106b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/23. target.md",
+                "file": "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property/1.O que é.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23. target"
+              "title": "1.O que é"
             }
           }
         ]
@@ -183,10 +183,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a20ba2ef21c074d2",
+  "active": "61faf78878106b74",
   "lastOpenFiles": [
-    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/21.where.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/1. O que é.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property/1.O que é.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/23. target.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/21.where.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/22.is.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/20.nth-of-type.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/16.placeholder shown.md",
@@ -195,7 +198,6 @@
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/18.first-of-type.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/19.last-of-type",
     "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/2.escopo de váriaveis.md",
-    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/1. O que é.md",
     "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root",
     "2.fronts/2-css/1.códigos/10.animations/0.variaveis",
     "2.fronts/2-css/1.códigos/10.animations/1.transitions/3.transition-timing-function.md",
@@ -216,10 +218,8 @@
     "2.fronts/2-css/0.anihamento",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade",
     "2.fronts/2-css/1.códigos/4.herança/3.unset.md",
-    "2.fronts/2-css/1.códigos/4.herança/2.inherit.md",
     "2.fronts/2-css/1.códigos/4.herança",
     "2.fronts/2-css/1.códigos/3.text/Sem título",
-    "2.fronts/1-html/1.códigos/0.O que é",
-    "2.fronts/2-css/1.códigos/0. O que é"
+    "2.fronts/1-html/1.códigos/0.O que é"
   ]
 }
