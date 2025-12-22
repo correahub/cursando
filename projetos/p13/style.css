@@ -10,8 +10,10 @@
 :root {
   --cor-fundo-header: #31333c;
   --cor-fundo-main: #454857;
-  --cor-titulos-h1: #606470;
+  --cor-titulos-h1: #9398a5;
+  --cor-paragrafo: rgb(199, 190, 190);
   --cor-subtitulos: #ef7846;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 :is(html, body) {
@@ -46,6 +48,7 @@ body {
 .header-hero_section_menu-nav_list_item {
   display: flex;
   flex-direction: column;
+  text-align: right;
   border-bottom: 0.1px solid rgba(228, 227, 227, 0.795);
   padding: 0.5rem 0rem;
 }
@@ -54,7 +57,67 @@ body {
   color: white;
   font-size: 1.6rem;
   text-decoration: none;
+  padding: 1.5rem 0rem;
+  transform: scale(1);
+
+  transition: padding-right 0.3s ease 0.1s;
+
+  &:hover {
+    padding-right: 0.5rem;
+    background-color: var(--cor-fundo-main);
+  }
+}
+
+/****************************************/
+
+.main-hero {
+  background-color: var(--cor-fundo-main);
+  display: flex;
+  flex-grow: 1;
+}
+
+.main-hero_article {
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.main-hero_article_titulo-principal {
   padding: 1rem 0rem;
-  width: 100%;
-  text-align: right;
+  color: var(--cor-titulos-h1);
+  font-size: 3.4rem;
+}
+
+.main-hero_article_subtituloh2 {
+  padding: 1rem 0rem;
+  color: var(--cor-subtitulos);
+  font-size: 2.4rem;
+}
+
+.main-hero_article_subtituloh3 {
+  padding: 1rem 0rem;
+  color: var(--cor-subtitulos);
+  font-size: 2rem;
+}
+
+.main-hero_article_paragrafo {
+  padding: 1rem 0rem;
+  color: var(--cor-paragrafo);
+  font-size: 1.6rem;
+}
+.main-hero_article_adrress_lista {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+
+  .main-hero_article_adrress_lista_item_link {
+    color: var(--cor-paragrafo);
+    padding: 1rem 0rem;
+    font-size: 1.8rem;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--cor-subtitulos);
+      text-decoration: underline;
+    }
+  }
 }
