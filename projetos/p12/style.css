@@ -34,6 +34,7 @@ body {
 .main-hero {
   background-color: white;
   width: 80%;
+  box-shadow: 1px 1px 14px black;
 }
 
 .main-hero_lista {
@@ -45,19 +46,25 @@ body {
   gap: 1rem;
 }
 
+img {
+  width: 100%;
+  display: block;
+}
+
 .main-hero_lista_item {
   cursor: pointer;
+  overflow: hidden;
   position: relative;
+  width: calc(25% - 1rem);
   opacity: 0.5;
   transition: opacity 0.5s ease 0.2s, transform 0.3s ease 0.1s;
 }
 .main-hero_lista_item:hover {
   opacity: 1;
-  transform: scale(0.98);
+  transform: scale(0.98) rotate(-5deg);
 }
 
 p {
-  display: block;
   color: white;
   background-color: black;
   font-size: 1.6rem;
@@ -66,9 +73,9 @@ p {
   width: 100%;
   opacity: 0;
   left: 0;
-  bottom: -25px;
+  bottom: -25%;
 
-  transition: bottom .5s ease 0.1s;
+  transition: bottom 0.5s ease 0.1s;
 }
 
 .main-hero_lista_item:hover > p {

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5445faa99d1ffa",
+        "id": "2db6bfa4b0bf707c",
         "type": "tabs",
         "children": [
           {
-            "id": "61faf78878106b74",
+            "id": "6344d2525aaf9a00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property/1.O que é.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.O que é"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,13 +179,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "61faf78878106b74",
+  "active": "9d68e31116c8b7b7",
   "lastOpenFiles": [
-    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/1. O que é.md",
     "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property/1.O que é.md",
+    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/21.where.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property/2.syntax values.md",
+    "2.fronts/2-css/1.códigos/10.animations/0.variaveis/1.root/1. O que é.md",
     "2.fronts/2-css/1.códigos/10.animations/0.variaveis/2.property",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/23. target.md",
-    "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/21.where.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/22.is.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/20.nth-of-type.md",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/3.pseudo classe/16.placeholder shown.md",
@@ -217,7 +214,6 @@
     "2.fronts/2-css/1.códigos/5.Model box/0.nesting()",
     "2.fronts/2-css/0.anihamento",
     "2.fronts/2-css/1.códigos/7.pseudo class e elementos e seletores compostos/0.especificidade",
-    "2.fronts/2-css/1.códigos/4.herança/3.unset.md",
     "2.fronts/2-css/1.códigos/4.herança",
     "2.fronts/2-css/1.códigos/3.text/Sem título",
     "2.fronts/1-html/1.códigos/0.O que é"
