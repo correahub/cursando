@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --cor-fundo: #d3d3d3;
+}
+
+:is(html, body) {
+  height: 100vh;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header-hero_titulo {
+  font-size: 4rem;
+}
+.main-hero {
+  background-color: white;
+  width: 80%;
+}
+
+.main-hero_lista {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.main-hero_lista_item {
+  cursor: pointer;
+  position: relative;
+  opacity: 0.5;
+  transition: opacity 0.5s ease 0.2s, transform 0.3s ease 0.1s;
+}
+.main-hero_lista_item:hover {
+  opacity: 1;
+  transform: scale(0.98);
+}
+
+p {
+  display: block;
+  color: white;
+  background-color: black;
+  font-size: 1.6rem;
+  padding: 1rem;
+  position: absolute;
+  width: 100%;
+  opacity: 0;
+  left: 0;
+  bottom: -25px;
+
+  transition: bottom .5s ease 0.1s;
+}
+
+.main-hero_lista_item:hover > p {
+  opacity: 1;
+  left: 0;
+  bottom: 0;
+}
