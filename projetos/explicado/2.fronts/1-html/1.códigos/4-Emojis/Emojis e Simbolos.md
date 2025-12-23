@@ -1,3 +1,26 @@
+
+# &#x é um elemento usada para marcar emojis  no conteúdo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### ✨ Como usar com emojis?
 
 Cada emoji tem um **código Unicode**, que pode ser representado em hexadecimal. Você pode usar esse código com `&#x...;`.

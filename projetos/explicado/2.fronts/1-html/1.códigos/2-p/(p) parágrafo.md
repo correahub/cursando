@@ -1,3 +1,26 @@
+# p é é um elemento usada para marcar o conteúdo de um paragrafo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🧸 Imagine que seu site é um livro cheio de frases…
 
 Quando você escreve um livro, você não coloca **todas as palavras grudadas**, certo?  

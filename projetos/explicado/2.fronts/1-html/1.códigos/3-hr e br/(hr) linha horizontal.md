@@ -1,3 +1,29 @@
+
+
+# ht é é um elemento usada para marcar  uma linha horizontal no conteúdo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🧸 Imagine que você está desenhando no seu caderno…
 
 Às vezes, quando você está escrevendo uma história ou fazendo um trabalho de escola, você faz uma **linha horizontal** no papel para:

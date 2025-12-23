@@ -1,3 +1,27 @@
+
+
+# br é um elemento usada para marcar quebras de linhas no conteúdo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🧸 Imagine que você está escrevendo em um caderno…
 
 Quando você escreve uma frase e quer **pular para a linha de baixo**, você faz o quê?
