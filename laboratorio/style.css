@@ -69,17 +69,42 @@ main {
   background-color: lime;
 }
 
-article {
-  background-color: red;
-  padding: 1rem;
-}
-ul {
-  display: flex;
-  justify-content: space-between;
-  padding: 1rem;
-  list-style-type: none;
+.section1 {
+  background-color: #454857;
+  padding: 2rem;
 
-  li {
-    flex: 1 0 0%;
+  .section1_section-contato {
+    display: flex;
+    & > *{
+      flex: 1 1 0%;
+
+    }
+
+    .diz {
+      display: flex;
+      flex-direction: column;
+      background-color: aqua;
+      
+    }
+
+    .section1_section-contato_div1 {
+      display: flex;
+      gap: 1rem;
+
+      .section1_section-contato_div1_div2 {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        
+      }
+    }
+  }
+  .diz1 {
+    background-color: #ef7846;
+    
+    address {
+      display: flex;
+      flex-direction: column;
+    }
   }
 }
