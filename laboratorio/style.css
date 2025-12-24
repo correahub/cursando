@@ -1,110 +1,37 @@
-*,
-*::after,
-*::before {
-  padding: 0;
+* {
   margin: 0;
-  box-sizing: border-box;
+  padding: 0;
 }
 
-:root {
-  --cor-fundo-header: rgba(49, 51, 60, 0.534);
-  --cor-fundo-main: rgba(69, 72, 87, 0.534);
-  --cor-titulos-h1: #9398a5;
-  --cor-paragrafo: rgb(199, 190, 190);
-  --cor-subtitulos: #ef7846;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-:is(html, body) {
-  min-height: 100vh;
-}
-
-html {
-  font-size: 62.5%;
-}
-
-body {
+.row {
   display: flex;
+  & > * {
+    flex: 1 0 0%;
+  }
 }
-
-.header-hero {
-  background-color: var(--cor-fundo-header);
-  min-width: 15%;
+.botao1 {
+  background-color: rgb(104, 172, 104);
   padding: 1rem;
+}
+.botao2 {
+  background-color: rgb(36, 156, 156);
+  padding: 1rem;
+}
+
+.row1 {
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
-
-.header-hero_section {
-  width: 100%;
-}
-
-.header-hero_section_menu-nav_list_item {
-  display: flex;
-  flex-direction: column;
-  text-align: right;
-  border-bottom: 0.1px solid rgba(228, 227, 227, 0.795);
-  padding: 0.5rem 0rem;
-}
-
-.header-hero_section_menu-nav_list_item_link {
-  color: white;
-  font-size: 1.6rem;
-  text-decoration: none;
-  padding: 1.5rem 0rem;
-  transform: scale(1);
-  width: 100%;
-
-  transition: padding-right 0.3s ease 0.1s;
-
-  &:hover {
-    padding-right: 0.5rem;
-    background-color: var(--cor-fundo-main);
+  & > * {
+    flex: 1;
   }
-}
 
-main {
-  flex-grow: 1;
-  background-color: lime;
-}
-
-.section1 {
-  background-color: #454857;
-  padding: 2rem;
-
-  .section1_section-contato {
+  :is(.botao1, .botao2) > div {
     display: flex;
-    & > *{
-      flex: 1 1 0%;
-
+    & > * {
+      flex: 1 0 0%;
     }
-
-    .diz {
-      display: flex;
-      flex-direction: column;
-      background-color: aqua;
-      
-    }
-
-    .section1_section-contato_div1 {
-      display: flex;
-      gap: 1rem;
-
-      .section1_section-contato_div1_div2 {
-        display: flex;
-        flex-direction: column;
-        flex-grow: 1;
-        
-      }
-    }
+    background-color: rgb(179, 162, 162);
   }
-  .diz1 {
-    background-color: #ef7846;
-    
-    address {
-      display: flex;
-      flex-direction: column;
-    }
+  :is(.botao1, .botao2) > div > button {
+    background-color: red;
   }
 }
