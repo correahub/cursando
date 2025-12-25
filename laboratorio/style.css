@@ -1,37 +1,31 @@
-* {
+@charset "UTF-8";
+
+body {
+  background-color: black;
+}
+
+div {
+  background-color: white;
+  width: 300px;
+  height: 150px;
+}
+ul {
   margin: 0;
   padding: 0;
 }
-
-.row {
+ul {
+  list-style-type: none;
   display: flex;
-  & > * {
+  gap: 1rem;
+  & > li {
     flex: 1 0 0%;
-  }
-}
-.botao1 {
-  background-color: rgb(104, 172, 104);
-  padding: 1rem;
-}
-.botao2 {
-  background-color: rgb(36, 156, 156);
-  padding: 1rem;
-}
+    text-align: center;
+    font-size: 1.3rem;
 
-.row1 {
-  display: flex;
-  & > * {
-    flex: 1;
-  }
-
-  :is(.botao1, .botao2) > div {
-    display: flex;
-    & > * {
-      flex: 1 0 0%;
+    &:hover > :where(a, .icons) {
+      color: red;
+      background-color: yellow;
+      font-size: 2rem;
     }
-    background-color: rgb(179, 162, 162);
-  }
-  :is(.botao1, .botao2) > div > button {
-    background-color: red;
   }
 }
