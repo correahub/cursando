@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+section {
+  counter-reset: item 0;
+}
+
+div {
+  width: 400px;
+  height: 150px;
+  margin: 2rem auto;
+  background: url(imagens/tile.png) center center / cover no-repeat;
+  padding: 2rem;
+  border: 2px dashed black;
+  counter-increment: item;
+}
+
+div::before {
+  display: inline-block;
+  content: "[" counter(item) "]";
+}
+
+p {
+  text-align: justify;
+}
