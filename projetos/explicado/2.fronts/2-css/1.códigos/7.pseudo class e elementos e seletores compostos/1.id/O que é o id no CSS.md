@@ -1,4 +1,25 @@
-# id é um identificador que aponta para um único elemento HTML.
+# id é o **atributo** que define **um identificador único para um elemento**, usado para selecioná-lo no CSS, JavaScript ou como âncora na página.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 

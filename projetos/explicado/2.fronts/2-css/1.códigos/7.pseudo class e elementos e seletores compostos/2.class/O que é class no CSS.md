@@ -1,4 +1,23 @@
-# Class é um identificador que aponta para múltiplos elementos HTML.
+# **`class`** é o **atributo** que define **uma ou mais classes para um elemento**, permitindo agrupar e reutilizar estilos ou comportamentos em vários elementos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # 🎨 O que é **class** no CSS?
