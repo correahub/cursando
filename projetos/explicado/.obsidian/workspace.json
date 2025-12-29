@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3ad3d8ad046a98",
+        "id": "2116270d4ae4407c",
         "type": "tabs",
         "children": [
           {
-            "id": "a0385fd38ec299d9",
+            "id": "6c6834700d0e77c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/2-css/1.códigos/12.funcao-css/0.função.md",
+                "file": "2.fronts/1-html/1.códigos/9-Layout/0.layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.função"
+              "title": "0.layout"
             }
           }
         ]
@@ -183,8 +183,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9d68e31116c8b7b7",
+  "active": "6c6834700d0e77c6",
   "lastOpenFiles": [
+    "2.fronts/2-css/1.códigos/11.counter/3.counter-increment.md",
+    "2.fronts/2-css/1.códigos/11.counter/2.counter-reset.md",
+    "2.fronts/2-css/1.códigos/13.pointer-events/1.pointer-events.md",
+    "2.fronts/2-css/1.códigos/12.função()-css/13.var().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/12.counter().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/11.color-mix().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/10.url().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/9.brightness().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/8.blur().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/7.hsl().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/6.rgba().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/5.rgb().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/4.clamp().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/0.função().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/3.max().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/2.min().md",
+    "2.fronts/2-css/1.códigos/12.função()-css/1.calc().md",
+    "2.fronts/2-css/1.códigos/12.funcao-css/0.função.md",
     "2.fronts/1-html/1.códigos/12.formulário/1.form/5.input.md",
     "2.fronts/1-html/1.códigos/12.formulário/8.meter/1.meter.md",
     "2.fronts/1-html/1.códigos/12.formulário/7.progress/1.progress.md",
@@ -194,25 +212,7 @@
     "2.fronts/1-html/1.códigos/12.formulário/5.texarea/2.Resise, readonly,disable.md",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist/2.datalist.md",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist/1.list.md",
-    "2.fronts/1-html/1.códigos/12.formulário/3.select/3.optgroup.md",
-    "2.fronts/1-html/1.códigos/12.formulário/3.select/2option.md",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist",
-    "2.fronts/1-html/1.códigos/12.formulário/3.select/1.select.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/13.search/1.search.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/8.color/1.color.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/10.file/1.file.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/11.range/1.range.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/12.hiden/1.hidden.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/2.email/1.email.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/7.date/1.date.md",
-    "2.fronts/1-html/1.códigos/8.button/1.buttons e seus tipos.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/6.radio/1.radio.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/5.checkbox/1.checkbox.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/4.number/1.number.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/3.password/1.password.md",
-    "2.fronts/1-html/1.códigos/12.formulário/2.input/1.text/1.text.md",
-    "2.fronts/1-html/1.códigos/11.formulário/2.input/6.radio/2_checked.md",
-    "2.fronts/1-html/1.códigos/11.formulário/2.input/5.checkbox/2.checked.md",
     "2.fronts/1-html/1.códigos/4-Emojis",
     "2.fronts/1-html/1.códigos/6 - ul e ol e dl/Sem título",
     "2.fronts/1-html/1.códigos/6 - ul e ol e dl",
