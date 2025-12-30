@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2116270d4ae4407c",
+        "id": "ef23ab36e1c4fec9",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6834700d0e77c6",
+            "id": "16d16b229113d898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.fronts/1-html/1.códigos/9-Layout/0.layout.md",
+                "file": "2.fronts/1-html/1.códigos/7-a/1.hiperlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.layout"
+              "title": "1.hiperlink"
             }
           }
         ]
@@ -183,35 +183,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6c6834700d0e77c6",
+  "active": "16d16b229113d898",
   "lastOpenFiles": [
-    "2.fronts/2-css/1.códigos/11.counter/3.counter-increment.md",
-    "2.fronts/2-css/1.códigos/11.counter/2.counter-reset.md",
-    "2.fronts/2-css/1.códigos/13.pointer-events/1.pointer-events.md",
-    "2.fronts/2-css/1.códigos/12.função()-css/13.var().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/12.counter().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/11.color-mix().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/10.url().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/9.brightness().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/8.blur().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/7.hsl().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/6.rgba().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/5.rgb().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/4.clamp().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/0.função().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/3.max().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/2.min().md",
-    "2.fronts/2-css/1.códigos/12.função()-css/1.calc().md",
-    "2.fronts/2-css/1.códigos/12.funcao-css/0.função.md",
-    "2.fronts/1-html/1.códigos/12.formulário/1.form/5.input.md",
-    "2.fronts/1-html/1.códigos/12.formulário/8.meter/1.meter.md",
-    "2.fronts/1-html/1.códigos/12.formulário/7.progress/1.progress.md",
-    "2.fronts/1-html/1.códigos/12.formulário/6.output/1.OUTPUT.md",
+    "2.fronts/1-html/1.códigos/6-list/1.ul/2.li.md",
+    "2.fronts/1-html/1.códigos/6-list/1.ul/1.ul.md",
+    "2.fronts/1-html/1.códigos/6-list/3dl/3.dd.md",
+    "2.fronts/1-html/1.códigos/6-list/3dl/2.dt.md",
+    "2.fronts/1-html/1.códigos/6-list/3dl/1.dl.md",
+    "2.fronts/1-html/1.códigos/6-list/2.ol/1.ol.md",
+    "2.fronts/1-html/1.códigos/5-formatação/18.samp.md",
+    "2.fronts/1-html/1.códigos/5-formatação/17.kbd.md",
+    "2.fronts/1-html/1.códigos/5-formatação/16.code.md",
+    "2.fronts/1-html/1.códigos/5-formatação/15.pre.md",
+    "2.fronts/1-html/1.códigos/5-formatação/14.abbr.md",
+    "2.fronts/1-html/1.códigos/5-formatação/13.dfn.md",
+    "2.fronts/1-html/1.códigos/5-formatação/12.sub.md",
+    "2.fronts/1-html/1.códigos/5-formatação/11.sup.md",
+    "2.fronts/1-html/1.códigos/5-formatação/10.time.md",
+    "2.fronts/1-html/1.códigos/5-formatação/9.cite.md",
+    "2.fronts/1-html/1.códigos/5-formatação/8.blockquote.md",
+    "2.fronts/1-html/1.códigos/5-formatação/7.q.md",
+    "2.fronts/1-html/1.códigos/5-formatação/6.ins.md",
+    "2.fronts/1-html/1.códigos/5-formatação/5.del.md",
+    "2.fronts/1-html/1.códigos/5-formatação/4.mark.md",
+    "2.fronts/1-html/1.códigos/5-formatação/3.em.md",
+    "2.fronts/1-html/1.códigos/5-formatação/2.strong.md",
+    "2.fronts/1-html/1.códigos/5-formatação/1.addrees.md",
+    "2.fronts/1-html/1.códigos/4-imagens/1.img/1.(img) imagem.md",
+    "2.fronts/1-html/1.códigos/3-hr e br/2.br.md",
     "2.fronts/1-html/1.códigos/12.formulário/5.visualização de Dados/7.progress",
-    "2.fronts/1-html/1.códigos/12.formulário/5.texarea/1.textarea.md",
-    "2.fronts/1-html/1.códigos/12.formulário/5.texarea/2.Resise, readonly,disable.md",
-    "2.fronts/1-html/1.códigos/12.formulário/4.datalist/2.datalist.md",
-    "2.fronts/1-html/1.códigos/12.formulário/4.datalist/1.list.md",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist",
     "2.fronts/1-html/1.códigos/4-Emojis",
     "2.fronts/1-html/1.códigos/6 - ul e ol e dl/Sem título",
