@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef23ab36e1c4fec9",
+        "id": "9096ad2e4f88f322",
         "type": "tabs",
         "children": [
           {
-            "id": "16d16b229113d898",
+            "id": "bc3b87853d65173b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.fronts/1-html/1.códigos/7-a/1.hiperlink.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.hiperlink"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,34 +179,36 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "16d16b229113d898",
+  "active": "bc3b87853d65173b",
   "lastOpenFiles": [
-    "2.fronts/1-html/1.códigos/6-list/1.ul/2.li.md",
-    "2.fronts/1-html/1.códigos/6-list/1.ul/1.ul.md",
-    "2.fronts/1-html/1.códigos/6-list/3dl/3.dd.md",
-    "2.fronts/1-html/1.códigos/6-list/3dl/2.dt.md",
-    "2.fronts/1-html/1.códigos/6-list/3dl/1.dl.md",
-    "2.fronts/1-html/1.códigos/6-list/2.ol/1.ol.md",
-    "2.fronts/1-html/1.códigos/5-formatação/18.samp.md",
-    "2.fronts/1-html/1.códigos/5-formatação/17.kbd.md",
-    "2.fronts/1-html/1.códigos/5-formatação/16.code.md",
-    "2.fronts/1-html/1.códigos/5-formatação/15.pre.md",
-    "2.fronts/1-html/1.códigos/5-formatação/14.abbr.md",
-    "2.fronts/1-html/1.códigos/5-formatação/13.dfn.md",
-    "2.fronts/1-html/1.códigos/5-formatação/12.sub.md",
-    "2.fronts/1-html/1.códigos/5-formatação/11.sup.md",
-    "2.fronts/1-html/1.códigos/5-formatação/10.time.md",
-    "2.fronts/1-html/1.códigos/5-formatação/9.cite.md",
-    "2.fronts/1-html/1.códigos/5-formatação/8.blockquote.md",
-    "2.fronts/1-html/1.códigos/5-formatação/7.q.md",
-    "2.fronts/1-html/1.códigos/5-formatação/6.ins.md",
-    "2.fronts/1-html/1.códigos/5-formatação/5.del.md",
-    "2.fronts/1-html/1.códigos/5-formatação/4.mark.md",
-    "2.fronts/1-html/1.códigos/5-formatação/3.em.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/17.Optimum.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/13.row.md",
+    "2.fronts/1-html/1.códigos/12.formulário/1.form/5.input.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/16.High.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/15.low.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/14.Columns.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/1.Type.md",
+    "2.fronts/1-html/1.códigos/12.formulário/5.texarea/1.textarea.md",
+    "2.fronts/1-html/1.códigos/12.formulário/8.meter/1.meter.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/12.Maxlenght.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/11.Minlength.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/10.Max.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/9.Min.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/8.Autocomplete.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/7.Readonly.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/6.Disabled.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/5.Required.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/4.Placeholder.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/3.Value.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/2.Name.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/Sem título",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos",
     "2.fronts/1-html/1.códigos/5-formatação/2.strong.md",
     "2.fronts/1-html/1.códigos/5-formatação/1.addrees.md",
     "2.fronts/1-html/1.códigos/4-imagens/1.img/1.(img) imagem.md",
     "2.fronts/1-html/1.códigos/3-hr e br/2.br.md",
+    "2.fronts/1-html/1.códigos/3-hr e br/1.hr.md",
+    "2.fronts/1-html/1.códigos/2-p/1.p.md",
     "2.fronts/1-html/1.códigos/12.formulário/5.visualização de Dados/7.progress",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist",
     "2.fronts/1-html/1.códigos/4-Emojis",
@@ -218,8 +216,6 @@
     "2.fronts/1-html/1.códigos/6 - ul e ol e dl",
     "2.fronts/1-html/1.códigos/7-a/3.links de iframe/1.Oque é iframe",
     "2.fronts/1-html/1.códigos/7-a/3.links de iframe",
-    "2.fronts/1-html/1.códigos/7-a/2.links de rolagem",
-    "2.fronts/1-html/1.códigos/7-a/1.a",
-    "2.fronts/1-html/1.códigos/6-list/3dl"
+    "2.fronts/1-html/1.códigos/7-a/2.links de rolagem"
   ]
 }
