@@ -11,10 +11,14 @@
             "id": "bc3b87853d65173b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2.fronts/1-html/1.códigos/12.formulário/2.input/12.hiden/1.hidden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1.hidden"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "bc3b87853d65173b",
   "lastOpenFiles": [
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/13.search/1.search.md",
+    "2.fronts/1-html/1.códigos/12.formulário/2.input/12.hiden/1.hidden.md",
     "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/17.Optimum.md",
     "2.fronts/1-html/1.códigos/12.formulário/2.input/0.atributos/13.row.md",
     "2.fronts/1-html/1.códigos/12.formulário/1.form/5.input.md",
@@ -207,8 +213,6 @@
     "2.fronts/1-html/1.códigos/5-formatação/1.addrees.md",
     "2.fronts/1-html/1.códigos/4-imagens/1.img/1.(img) imagem.md",
     "2.fronts/1-html/1.códigos/3-hr e br/2.br.md",
-    "2.fronts/1-html/1.códigos/3-hr e br/1.hr.md",
-    "2.fronts/1-html/1.códigos/2-p/1.p.md",
     "2.fronts/1-html/1.códigos/12.formulário/5.visualização de Dados/7.progress",
     "2.fronts/1-html/1.códigos/12.formulário/4.datalist",
     "2.fronts/1-html/1.códigos/4-Emojis",
